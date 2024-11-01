@@ -1,7 +1,7 @@
 # model_pipeline.py
 
 from transformers import AutoTokenizer, AutoModelForCausalLM, pipeline
-from config import TOKENIZER_PATH, MODEL_PATH, PIPELINE_PARAMS, USER_PROFILE_PROMPT, PRELIMINARY_RECOMMENDATIONS_PROMPT
+from config import TOKENIZER_PATH, MODEL_PATH, PIPELINE_PARAMS, USER_PROFILE_PROMPT, PRELIMINARY_RECOMMENDATIONS_PROMPT, RANKING_PROMPT
 import torch
 
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -52,3 +52,8 @@ class RecommenderModel:
     def create_preliminary_recommendations(self, user_profile):
         prompt = PRELIMINARY_RECOMMENDATIONS_PROMPT.format(user_profile=user_profile)
         return self.get_response(prompt)
+    
+    def rank_recommendations(self, user_profile, products):
+        prompt = RANKING_PROMPT.format(user_profile=user_profile, products=products)
+        return self.get_response(prompt)
+

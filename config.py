@@ -4,7 +4,7 @@
 TOKENIZER_PATH = "models/hf-frompretrained-download/meta-llama/Meta-Llama-3-8B-Instruct"
 MODEL_PATH = "models/hf-frompretrained-downloadmeta-llama/Meta-Llama-3-8B-Instruct"
 PIPELINE_PARAMS = {
-    'max_length': 2048,
+    'max_length': 4096,
     'num_return_sequences': 1,
     'temperature': 0.7,
     'top_k': 50,
@@ -39,16 +39,55 @@ Generate three general product categories that match the user's preferences and 
 
 For each category, provide:
 
-1. Name: **[Non-ambiguous product or category name]**
-   Reason: [1-2 sentences explaining the fit]
+- **Category Title**
+- A numbered list of three specific product types or items within that category that fit the user profile.
 
 **Guidelines:**
 
-- Do not mention specific brands or product names, except if there is any preference mentioned in the User Profile.
-- Use plain text with a numbered list.
-- **Do not include any introductions, conclusions, or additional commentary.**
-- **Do not repeat the guidelines or any part of this prompt in your response.**
-- **Your entire response should consist only of the numbered list in the exact format specified.**
+**Now, generate the recommendations for the user profile provided, following the same format as the example. Do not include any introductions or explanations.**- Use plain text with a numbered list.
+**Do not include any introductions, conclusions, or additional commentary**
+**Do NOT include any python code or Json code**
+**Example:**
+
+1. Skincare Essentials
+   1. Organic Face Cream with SPF
+   2. Natural Exfoliating Scrub
+   3. Hydrating Serum with Green Tea Extract
+
+2. Eco-Friendly Hair Care
+   1. Sulfate-Free Shampoo Bar
+   2. Coconut Oil Leave-In Conditioner
+   3. Bamboo Bristle Brush Set
+
+3. Personal Grooming Tools
+   1. Rechargeable Electric Razor
+   2. Stainless Steel Nail Clippers
+   3. Silicone Travel Toothbrush Holder
+
 """
 
+
+
 # Additional configuration parameters can be added here.
+RANKING_PROMPT = """
+You are an expert recommendation system.
+
+Based on the following user profile:
+
+{user_profile}
+
+And the following list of products:
+
+{products}
+
+Rank the products in the list from most relevant to least relevant for the user, based on the user profile.
+
+Provide the ranked list of products in the following format:
+
+1. Product Name
+2. Product Name
+3. Product Name
+...
+
+Do not include any explanations or additional text.
+"""
