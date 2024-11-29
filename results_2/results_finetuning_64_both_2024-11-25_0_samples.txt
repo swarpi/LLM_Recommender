@@ -1,0 +1,145 @@
+User 1 Profile and Candidate Items:
+User_Profile:
+Short-Term_Interests: Recent products and topics include Personal Care Kits, Nail Clippers, Hydration Treatments, Hair Brushes, Skincare Sets
+Long_Term_Preferences: Historical analysis reveals consistent patterns in purchasing behavior and product choices:
+* Preference for eco-friendly and sustainable packaging materials;
+* Interest in high-quality grooming tools suitable for various hand sizes;
+* Commitment to natural skincare routines incorporating botanicals and plant-derived extracts;
+* Appreciation for innovative home spa solutions providing salon-like experiences without expensive appointments;
+* Attention to detail regarding ingredient lists, especially avoidance of harsh chemicals and toxins;
+* Enjoyment of premium beauty sets offering multi-benefit formulas addressing multiple concerns simultaneously;
+* Favorable impression towards brands utilizing advanced scientific research to develop effective formulations and unique textures
+User_Profile: "Consistent consumer who prioritizes environmentally responsible practices while seeking luxurious yet accessible self-care solutions; Enjoys exploring cutting-edge innovations within personal care routines; Values transparent labeling and commitment to natural wellness principles."  
+Candidate_Items: [Natural Skincare Routines], [Eco-Friendly Packaging Options], [Luxurious Beauty Sets], [Advanced Scientific Research Formulations], [Premium Quality Tools]
+
+User 1 Extracted Product Names:
+['[Natural Skincare Routines], [Eco-Friendly Packaging Options], [Luxurious Beauty Sets], [Advanced Scientific Research Formulations], [Premium Quality Tools]']
+
+User 1:
+Test Product ASIN: B08P2DZB4X
+Recommended Products:
+  1. ASIN: B09C5NQSC5 - Similarity: 20.00% - No Match
+  2. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  3. ASIN: B08BF4BKKM - Similarity: 50.00% - No Match
+  4. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  5. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  6. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+  7. ASIN: B07ZS3DKL5 - Similarity: 30.00% - No Match
+  8. ASIN: B092M5K59T - Similarity: 30.00% - No Match
+  9. ASIN: B07VG2W8TT - Similarity: 30.00% - No Match
+
+User 2 Profile and Candidate Items:
+User_Profile:
+"Short-Term_Interests": Recent Products Evaluated Alongside Personalized Descriptions 
+1. Facial Serums: Examining Consistency, Absorption Rate, Sensitivity, Fragrances, and Effectiveness in Addressing Specific Concerns 
+   * Be Plain Vitamin Ampoule: Lightweight, Non-Greasy, Fast-Absorbing, Neutral-Scented Multivitamin Concentrate Suitable for All Skins Types; Rich in Vitamins, Minerals, and Natural Ingredients Enhancing Radiance and Hydration  
+   * MD Complete Bright & Healthy Vitamin C+: Potent Antioxidant-Rich Treatment Providing Immediate Glow Boost with Improved Collagen Production and Enhanced Cellular Resilience Against Environmental Stressors  
+2. Cosmetics Sets: Exploring Travel Sizes and Sample Kits Comprising Various Products Catering to Different Needs, Such as Cleansers, Toners, Essences, Treatments, Sunscreens, and Lip Care Solutions 
+   * Caudalie Favorites Set: Compact Collection Featuring Five Luxurious Miniaturized Versions of Their Signature Formulas Including Foaming Cleanser, Intensive Repair Eye Cream, Regenerating Serum, Soothing Moisture Mask, and Protective Beauty Spray Designed To Offer Convenient Samples Accommodating Diverse Demands  
+3. Accessory Pieces: Investigating Functionality, Comfortability, Breathability, Durability, Adjustability, Versatility, Style Options, Material Quality, and
+
+User 2 Profile and Candidate Items:
+User_Profile:
+"Short-Term_Interests": Our analysis reveals that the user has recently engaged with various personal care products including facial treatments, makeup accessories, sanitizing gels, and skincare routines.
+
+"Long_Term_Preferences":
+Historically, our user tends towards preferring gentle yet effective formulas that cater to her delicate skin sensitivities. She appears drawn to classic combinations featuring vitamins C and E alongside soothing botanical extracts. Her affinity lies within affordable mid-range options offering reliable performance against moderate concerns. Furthermore, she favors compact formats suitable for convenient storage, traveling, and everyday usage.
+
+"User_Profile": Based on our assessment, we conclude that this discerning individual values quality ingredients paired with thoughtful packaging considerations. Seeking optimal solutions addressing specific needs, she appreciates innovative technologies applied across diverse textures – oils, lotions, essences, and beyond. Recognizing unique formulations tailored to address particular pain points remains paramount, guiding purchasing decisions through harmonious blends blending efficacy and indulgence.
+
+
+Candidate_Items: ["Anti-Aging Treatments", "Botanical Infusions Skincare Sets", "Compact Travel Cosmetics", "Eco-Friendly Wellness Essentials"]
+
+User 2 Extracted Product Names:
+['["Anti-Aging Treatments", "Botanical Infusions Skincare Sets", "Compact Travel Cosmetics", "Eco-Friendly Wellness Essentials"]']
+
+User 2:
+Test Product ASIN: B0BTJ6SYKB
+Recommended Products:
+  1. ASIN: B08BF4BKKM - Similarity: 40.00% - No Match
+  2. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  3. ASIN: B0949MJRHK - Similarity: 40.00% - No Match
+  4. ASIN: B09GVHT2D3 - Similarity: 30.00% - No Match
+  5. ASIN: B07JGD2T2J - Similarity: 40.00% - No Match
+  6. ASIN: B08S1LWF9V - Similarity: 30.00% - No Match
+  7. ASIN: B08GJJ5RV9 - Similarity: 30.00% - No Match
+  8. ASIN: B082VKPJV5 - Similarity: 30.00% - No Match
+  9. ASIN: B07ZS3DKL5 - Similarity: 40.00% - No Match
+  10. ASIN: B08F4ZDVZQ - Similarity: 20.00% - No Match
+
+User 3 Profile and Candidate Items:
+User_Profile: 
+"Short-Term_Interests": 
+The user recently purchased several beauty-related products such as foot care masks, shampoos, facial cleansers, body scrubs, and hair styling tools. They also bought skincare sets containing essential oils and a magic dryer towel.
+
+"Long_Term_Preferences":
+This user has consistently shown interest in personal grooming products especially those focused on healthy skin, moisturized locks, and pampering routines. Their purchasing patterns indicate an affinity towards chemical-free formulations blended with natural extracts, nourishing treatments tailored for specific needs, salon-grade kits providing value-added services, and eco-friendly packaging options catering to environmentally conscious consumers seeking sustainable lifestyles.
+
+
+"User_Profile": 
+Based on our analysis, we've identified distinct themes within her shopping behaviors:
+* Emphasis on holistic wellness through self-care practices centered around beauty rituals;
+* Preference for brands embracing innovative blends while emphasizing organic origins and minimal chemicals;
+* Pursuit of premium, high-quality materials yielding noticeable improvements rather than fast fixes; 
+* Interest in multi-tasking products reducing clutter yet delivering results comparable to single-purpose solutions;
+* Growing awareness about environmental responsibility reflected in choices favoring reusable accessories, refillable containers, and biodegradable alternatives;
+
+With these insights, she seeks indulgent treats fostering inner serenity amidst busy lives, prioritizes integrity-driven labels addressing diverse concerns, craves long-lasting transformations sans compromise, values versatility paired with efficiency, and strives to harmonize indulgence with sustainability goals.
+
+
+
+Candidate_Items:
+1. Sustainable Skincare Starter Kits
+2. Eco-Friendly Beauty Tools Sets
+3. Luxurious Treatment Masks
+4. Artisanal Fragrance Collections
+5. Botanical Wellness Retreat Packages
+
+User 3 Extracted Product Names:
+['Sustainable Skincare Starter Kits', 'Eco-Friendly Beauty Tools Sets', 'Luxurious Treatment Masks', 'Artisanal Fragrance Collections', 'Botanical Wellness Retreat Packages']
+
+User 3:
+Test Product ASIN: B08XJWLLKQ
+Recommended Products:
+  1. ASIN: B08BF4BKKM - Similarity: 40.00% - No Match
+  2. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  3. ASIN: B08575Y9V3 - Similarity: 30.00% - No Match
+  4. ASIN: B085NYYLQ8 - Similarity: 50.00% - No Match
+  5. ASIN: B09GVHT2D3 - Similarity: 20.00% - No Match
+  6. ASIN: B0949MJRHK - Similarity: 40.00% - No Match
+  7. ASIN: B08JTNQFZY - Similarity: 50.00% - No Match
+  8. ASIN: B089D16BWJ - Similarity: 40.00% - No Match
+  9. ASIN: B08P5579KC - Similarity: 40.00% - No Match
+  10. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  11. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  12. ASIN: B07HVRP37G - Similarity: 20.00% - No Match
+  13. ASIN: B08GS1G9BH - Similarity: 30.00% - No Match
+  14. ASIN: B0B2L218H2 - Similarity: 30.00% - No Match
+  15. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+  16. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  17. ASIN: B08BY9P4HR - Similarity: 30.00% - No Match
+  18. ASIN: B07T4LKC4D - Similarity: 40.00% - No Match
+  19. ASIN: B09G3KBK7Y - Similarity: 30.00% - No Match
+  20. ASIN: B092M5K59T - Similarity: 30.00% - No Match
+
+User 4 Profile and Candidate Items:
+**Short-Term Interests:** The latest products reviewed by the user include beauty-related accessories such as scrubbing gloves, shower caps, and various creams. Additionally, she examined sets of skincare tools including facial massagers and exfoliating mitts. Furthermore, the user evaluated travel-sized toiletries containing lotions and cleansing wipes.
+
+**Long-Term Preferences:** An analysis of the user's complete product history reveals several consistent patterns:
+
+* **Beauty Routine**: She tends to favor products associated with pampering herself, such as luxurious body treatments, scented candles, and relaxing aromatherapy sprays. These indulgent treats often focus on calming and rejuvenation, indicating her appreciation for self-care
+
+User 4 Profile and Candidate Items:
+User_Profile:
+"Short-Term_Interests": The user recently purchased products such as reusable shower caps, scrubbers, massagers, and skincare sets. These purchases suggest she values comfort, cleanliness, self-care, and pampering.
+
+"Long-Term_Preferences": An analysis of her full purchase history reveals several themes:
+
+* She prefers feminine, delicate, and romantic beauty and wellness products often featuring floral patterns, roses, lavender, and calming colors.
+* High-quality ingredients matter to her; she favors natural, organic, and plant-based formulas free from harsh chemicals and artificial additives.
+* She enjoys luxurious and indulgent treats like rich creams, velvety lotions, and decadent
+
+User 4 Profile and Candidate Items:
+User_Profile: 
+"Short-Term_Interests": The user recently purchased products such as Nyx cosmetics, reusable shower caps, bobby pins, body wash sets, air fresheners, bubble baths, self-care kits, skincare routines, eye creams, face masks, serums, lotions, cleansers, moisturizers, toners, exfoliators, beauty tools, grooming devices, perfume sprays, eyeshadow palettes, false eyelashes, mascara, foundation shades, concealer, powder compacts, nail polish removers, hair accessories, silicone hair ties, hair clips, scarves, bandanas, hats, sunglasses, umbrellas, rain boots, waterproof bags
+

@@ -1,0 +1,2146 @@
+User 1 Profile and Candidate Items:
+Based on the provided user reviews, we can extract the following information:
+
+**Short-term Interests**: The user recently purchased products related to personal grooming, self-care, and beauty. They seem to prioritize high-quality products, sustainability, and eco-friendliness.
+
+* Products reviewed include a manicure and pedicure kit, a facial cream, cotton ear swabs, a small wooden brush, keratin treatment kits, and a peptide-rich moisturizer.
+
+**Long-term Preferences**: Analyzing the user's historical reviews reveals a pattern of interest in health, wellness, and personal growth. They may value natural, sustainable, and eco-friendly products while also seeking effective solutions for common problems.
+
+* Consistent themes emerge around skincare, haircare, and general wellness. The user appears drawn to products containing natural ingredients, peptides, and vitamins, indicating a preference for gentle yet potent formulations.
+
+**User Profile Summary**: Based on our analysis, here is a summary of the user's profile:
+
+The user is likely a female who prioritizes her appearance, health, and wellbeing. She values high-quality, naturally sourced products that promote soft, smooth skin and healthy locks. Her interests lie in exploring new methods for maintaining a youthful glow without compromising her commitment to sustainability. As she navigates various aspects of her life, including work, family, and relationships, she seeks reliable tools and advice to help her thrive.
+
+Candidate Items:
+
+Given the user's profile, here are five candidate item categories that might appeal to her interests:
+
+1. **Natural Skincare Sets**: A curated bundle featuring products infused with antioxidants, peptides, and essential oils for optimal hydration and nourishment.
+2. **Eco-Friendly Hair Care Kits**: A starter package comprising plant-based shampoos, conditioners, and styling aids designed to minimize environmental impact while promoting luscious locks.
+3. **Vegan Beauty Essentials**: A collection of cruelty-free cosmetics, lip balms, and body lotions enriched with botanicals and other natural wonders.
+4. **Wellness Supplements**: A selection of scientifically-formulated pills or powders supporting immune function, energy levels, and mental clarity through synergistic blends of herbs, minerals, and amino acids.
+5. **Sustainable Lifestyle Guides**: An e-book series offering expert guidance on reducing waste, conserving resources, and adopting environmentally conscious practices within daily routines.
+
+By considering these candidate items, we aim to provide recommendations that not only resonate with the user's current preferences but also cater to her evolving interests and aspirations over time.
+
+User 1 Extracted Product Names:
+['Natural Skincare Sets', 'Eco-Friendly Hair Care Kits', 'Vegan Beauty Essentials', 'Wellness Supplements', 'Sustainable Lifestyle Guides']
+
+User 1:
+Test Product ASIN: B08P2DZB4X
+Recommended Products:
+  1. ASIN: B0949MJRHK - Similarity: 30.00% - No Match
+  2. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+  3. ASIN: B08BF4BKKM - Similarity: 50.00% - No Match
+  4. ASIN: B0713VF172 - Similarity: 30.00% - No Match
+  5. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  6. ASIN: B08S1LWF9V - Similarity: 30.00% - No Match
+  7. ASIN: B08BY9P4HR - Similarity: 50.00% - No Match
+  8. ASIN: B07ZS3DKL5 - Similarity: 30.00% - No Match
+  9. ASIN: B08XQYZWCS - Similarity: 40.00% - No Match
+  10. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  11. ASIN: B08H4SYXR4 - Similarity: 50.00% - No Match
+  12. ASIN: B0941YDPSW - Similarity: 30.00% - No Match
+  13. ASIN: B08F4ZDVZQ - Similarity: 50.00% - No Match
+  14. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  15. ASIN: B085NYYLQ8 - Similarity: 30.00% - No Match
+  16. ASIN: B08GJJ5RV9 - Similarity: 30.00% - No Match
+  17. ASIN: B08MC3ZLV4 - Similarity: 50.00% - No Match
+  18. ASIN: B07W1WJZFG - Similarity: 30.00% - No Match
+  19. ASIN: B092M5K59T - Similarity: 30.00% - No Match
+  20. ASIN: B0912BNP4J - Similarity: 50.00% - No Match
+
+User 2 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the recent reviews provided, we notice several common patterns:
+
+* **Skincare and Beauty Products**: The user frequently purchases and reviews various skincare and beauty-related products, indicating a high interest level in maintaining healthy and youthful-looking skin.
+* **Natural Ingredients**: Many of the reviewed products contain natural ingredients, suggesting the user prefers eco-friendly and gentle formulations.
+* **Moisturization and Hydration**: Most products mentioned offer hydration benefits, implying the user values keeping her skin hydrated and nourished.
+
+**Long-Term Preference Analysis:** Reviewing the user's entire history reveals additional preferences:
+
+* **Vitamin-Based Serums**: Throughout their reviews, the user consistently mentions vitamin-based serums, signifying a preference for potent antioxidant protection.
+* **Sensitive Skin Considerations**: Several reviews mention concerns regarding irritation or sensitivity, demonstrating the importance of hypoallergenic formulas.
+* **Hygiene and Cleanliness**: Products related to personal hygiene, such as sanitizers, indicate the user prioritizes cleanliness and proper grooming practices.
+
+**User Profile Summary:** Combining our analysis, we present a comprehensive summary:
+
+Our user appears to be a mature adult who values maintaining healthy and youthful-looking skin through effective skincare routines. She favors products containing natural ingredients, emphasizing the importance of hydration and moisturization. Her preferences also extend to vitamin-rich serums and hypoallergic formulas. When selecting products, she considers factors like
+
+User 2 Profile and Candidate Items:
+**Short-Term Interests:** 
+The user's latest interactions indicate interest in personal care products, specifically skincare routines and anti-aging treatments. Their reviews suggest a focus on gentle, non-irritating formulas suitable for sensitive skin.
+
+**Long-Term Preferences:**
+Analyzing the user's historical data reveals a pattern of preferring high-quality, natural ingredients, cruelty-free, and vegan-friendly products. They tend to appreciate unique fragrances and enjoy trying new scents. Additionally, they prioritize hydration and moisturization in various aspects of their life, including skincare, makeup, and accessories.
+
+**User Profile Summary:**
+Our user is likely a middle-aged woman who values her appearance and takes pride in maintaining healthy-looking skin. She is willing to invest in premium products that cater to her specific needs, particularly those related to anti-aging and moisture retention. Her preferences lean towards natural, organic ingredients, cruelty-free practices, and sustainable packaging. When exploring new products, she enjoys discovering innovative textures, novel scents, and exciting packaging designs.
+
+**Candidate Items:**
+
+Based on our analysis, we recommend the following five candidate items that align with the user's preferences:
+
+1. **Olay Regenerist Micro-Sculpting Cream**: A rich, luxurious moisturizer containing hyaluronic acid and vitamin B3 to plump and firm the skin.
+2. **Burt's Bees Intensive Hydration Mask**: A
+
+User 2 Extracted Product Names:
+['Olay Regenerist Micro-Sculpting Cream', "Burt's Bees Intensive Hydration Mask"]
+
+User 2:
+Test Product ASIN: B0BTJ6SYKB
+Recommended Products:
+  1. ASIN: B08QVJ4NVD - Similarity: 30.00% - No Match
+  2. ASIN: B08BS3WDPJ - Similarity: 40.00% - No Match
+  3. ASIN: B01N7A5AGF - Similarity: 20.00% - No Match
+  4. ASIN: B083B67373 - Similarity: 40.00% - No Match
+  5. ASIN: B07RBSLNFR - Similarity: 40.00% - No Match
+  6. ASIN: B089D16BWJ - Similarity: 40.00% - No Match
+  7. ASIN: B08HRNPNR5 - Similarity: 20.00% - No Match
+  8. ASIN: B07PCGSFGQ - Similarity: 30.00% - No Match
+  9. ASIN: B08CL46XNM - Similarity: 30.00% - No Match
+  10. ASIN: B08GS1G9BH - Similarity: 40.00% - No Match
+  11. ASIN: B07W397QG4 - Similarity: 20.00% - No Match
+  12. ASIN: B07P4LLZS6 - Similarity: 30.00% - No Match
+  13. ASIN: B07PBWVV5K - Similarity: 40.00% - No Match
+  14. ASIN: B08VKQY815 - Similarity: 30.00% - No Match
+  15. ASIN: B08WF29DM9 - Similarity: 20.00% - No Match
+  16. ASIN: B08CH5PC9W - Similarity: 20.00% - No Match
+  17. ASIN: B08HVRP54L - Similarity: 20.00% - No Match
+  18. ASIN: B07J1LYVHC - Similarity: 40.00% - No Match
+  19. ASIN: B07VDCD17L - Similarity: 20.00% - No Match
+  20. ASIN: B08GYJY8F2 - Similarity: 40.00% - No Match
+
+User 3 Profile and Candidate Items:
+Based on the provided user reviews, we can extract the following information:
+
+Short-Term Interests:
+
+* Recent interest in foot care products (Foot Peel Mask For Cracked Heels, Dead Skin & Calluses)
+* Interest in haircare products (Maya Mari Hydrating Argan Oil Shampoo, 2 Pack Hair Towel Wrap Turban Microfiber Drying Shower and Bath, Organic Sweet Almond Oil and Fractionated Coconut Oil Bundle)
+
+Long-Term Preferences:
+
+* Consistent theme of seeking gentle, non-drying skincare and haircare products (Calendula Soap With Coconut Oil Soap, Organic Sweet Almond Oil and Fractionated Coconut Oil Bundle)
+* Preference for high-quality, organic/natural ingredients (Heyedrate Activated Charcoal Soap Bar and Face Wash, Calendula Soap With Coconut Oil Soap)
+* Tendency towards trying new products and being open-minded about different brands and types
+
+User Profile Summary:
+
+Our user appears to be someone who prioritizes self-care and takes an active role in maintaining healthy-looking skin and hair. They're willing to experiment with new products and techniques, even if it means stepping outside their comfort zone. Their taste tends toward gentleness, naturality, and effectiveness.
+
+Candidate Items:
+
+Considering our user's profile, here are five candidate item recommendations that cater to her preferences:
+
+1. **Natural Skincare Routine**: A bundle containing a gentle cleanser, toner, moisturizer, and exfoliating treatment featuring natural ingredients like green tea, chamomile, and jojoba oil.
+2. **Hair Nourishing Treatments**: A collection of masks and serums infused with argan oil, keratin, and vitamins E and B5 to promote hydration, shine, and strength.
+3. **Fragrance-Free Bath Products**: A range of bath bombs, salts, and body washes formulated with soothing agents like oatmeal, almond milk, and honey, free from artificial fragrances.
+4. **Exfoliating Tools**: An upgraded version of the previous foot peel mask or a portable handheld exfoliator designed specifically for facial use, targeting dead skin cells and blackheads.
+5. **Customized Beauty Box Subscription**: A subscription service offering monthly deliveries of curated beauty products tailored to our user's specific needs, preferences, and interests, including samples, full-size products, and exclusive discounts.
+
+These suggestions aim to build upon our user's existing likes while introducing novel experiences and opportunities for growth within the realm of self-care. By providing targeted and thoughtful product recommendations, we strive to enhance her confidence, improve her daily routine, and foster a sense of excitement and discovery.
+
+User 3 Extracted Product Names:
+['Natural Skincare Routine', 'Hair Nourishing Treatments', 'Fragrance-Free Bath Products', 'Exfoliating Tools', 'Customized Beauty Box Subscription']
+
+User 3:
+Test Product ASIN: B08XJWLLKQ
+Recommended Products:
+  1. ASIN: B07ZS3DKL5 - Similarity: 30.00% - No Match
+  2. ASIN: B08XJWLLKQ - Similarity: 100.00% - Match
+  3. ASIN: B08MC3ZLV4 - Similarity: 40.00% - No Match
+  4. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  5. ASIN: B09GVHT2D3 - Similarity: 20.00% - No Match
+  6. ASIN: B08BF4BKKM - Similarity: 40.00% - No Match
+  7. ASIN: B086XH7BWW - Similarity: 50.00% - No Match
+  8. ASIN: B08SG2MBRY - Similarity: 30.00% - No Match
+  9. ASIN: B07R3BMYBG - Similarity: 20.00% - No Match
+  10. ASIN: B092M5K59T - Similarity: 30.00% - No Match
+  11. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  12. ASIN: B08575Y9V3 - Similarity: 30.00% - No Match
+  13. ASIN: B087D7MVHB - Similarity: 30.00% - No Match
+  14. ASIN: B08RYN11N9 - Similarity: 30.00% - No Match
+  15. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  16. ASIN: B0949MJRHK - Similarity: 40.00% - No Match
+  17. ASIN: B083PXJBVY - Similarity: 50.00% - No Match
+  18. ASIN: B08LPGZMQK - Similarity: 50.00% - No Match
+  19. ASIN: B08B5FJMHM - Similarity: 40.00% - No Match
+  20. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+
+User 4 Profile and Candidate Items:
+**Short-Term Interests:** Based on the provided reviews, we can identify some common patterns:
+
+* The user seems interested in products related to beauty and personal care, specifically skincare, makeup, and hair accessories.
+* She tends to appreciate unique, vibrant colors and designs, particularly those featuring pastels, florals, and metallic finishes.
+* The user values comfort, ease-of-use, and portability in her products.
+
+**Long-Term Preferences:** After analyzing the user's entire review history, we've identified several persistent themes:
+
+* The user prioritizes quality, durability, and effectiveness in her products. She often mentions specific features she likes or dislikes about certain brands or formulas.
+*
+
+User 4 Profile and Candidate Items:
+Based on the provided reviews, here is the generated report:
+
+**Short-Term Interest Analysis**
+
+* Recent interest in fashion-related products, specifically accessories such as headbands and scrunchies.
+* Preference towards colorful and trendy designs.
+* Appreciation for comfort and quality.
+
+**Long-Term Preference Analysis**
+
+* Stable interest in beauty and self-care products, including skincare and haircare items.
+* Consistent preference for gentle, non-irritating formulas.
+* Appreciation for natural ingredients and eco-friendly options.
+
+**User Profile Summary**
+Our subject exhibits characteristics of being fashionable, interested in beauty and self-care, and having a penchant for comfort and quality. She tends to favor colorful,
+
+User 4 Profile and Candidate Items:
+**Short-Term Interests:** Based on the latest products reviewed, we see that the user is interested in beauty-related products such as skincare, hair accessories, and cosmetics. They seem to appreciate colorful, fashionable, and trendy items.
+
+* Beauty-focused products
+* Vibrant colors and patterns
+* High-quality materials
+
+**Long-term Preferences:** Our analysis reveals that the user tends towards:
+
+* Affordable prices (<$20)
+* Good value for money (>$.50-$.60 per unit)
+* Functional products (e.g., travel-sized toiletries)
+
+These preferences indicate that the user prioritizes budget-friendliness while still seeking quality and practicality in their purchases.
+
+**Profile Summary**:
+
+User 4 Profile and Candidate Items:
+Based on your request, here is a comprehensive user profile generated from the provided user reviews.
+
+**Short-Term Interests**: The user seems interested in exploring different products related to beauty, personal care, and relaxation. Specifically, she enjoys trying new hair accessories, skincare products, and fragrances. She appreciates comfort, convenience, and affordability in her choices.
+
+**Long-term Preferences**: Analysis reveals that the user tends towards preferring gentle, non-irritating, and hypoallergenic products. She values uniqueness and creativity in design, particularly in colors and patterns. Additionally, she shows a preference for natural ingredients, sustainable materials, and eco-friendly practices.
+
+**User Profile Summary**: Our user
+
+User 4 Profile and Candidate Items:
+Based on your provided reviews, we'll analyze and synthesize information to build a comprehensive user profile.
+
+**Short-Term Interests:** Based on the latest reviews:
+
+* Focus on fashion-related products such as accessories (e.g., headbands), beauty care sets, and gifting ideas (e.g., bachelorette party favors).
+* Preference towards colorful, trendy, and fashionable items, especially those with pastel shades.
+* Interest in comfort-oriented products, such as soft and breathable materials.
+* Appreciation for affordable prices and value-for-money deals.
+
+**Long-Term Preferences:** From analyzing all reviews across multiple products:
+
+* Stable interest in skincare and personal care products, particularly focusing
+
+User 4 Profile and Candidate Items:
+Based on the provided user reviews, we can extract key information to build the user profile.
+
+**Short-Term Interests**: 
+From the latest reviews, we notice that the user tends towards:
+
+* Pastel color schemes (pink, purple, and yellow)
+* Comfortable and breathable products (e.g., shower caps, scrunchies)
+* Affordable prices ($10-$20)
+
+These characteristics suggest that the user values aesthetics, comfort, and practicality.
+
+**Long-term Preferences**: 
+Analyzing the user's complete review history reveals underlying patterns and preferences:
+
+* The user gravitates toward gentle, non-irritating, and hypoallergenic products.
+* She favors products with
+
+User 4 Profile and Candidate Items:
+**Short-Term Interest Analysis**: From the user's recent purchases, we observe that she tends to favor products with bright, vibrant colors such as pastel shades, pink, purple, and yellow. She appreciates unique, eye-catching designs and is drawn towards products with distinctive features like pleats and crinkles.
+
+Moreover, our analysis reveals that she prefers affordable options, valuing value-for-money deals where possible. Additionally, comfort seems essential; she seeks gentle, breathable materials that won't irritate her skin.
+
+**Long-Term Preference Identification**: By examining the user's purchase history, we identify several recurring patterns:
+
+* **Color Scheme**: Our user consistently gravitates toward calming,
+
+User 4 Profile and Candidate Items:
+**Short-Term Interest Analysis**
+Based on the provided reviews, our algorithm identifies the following short-term interests:
+
+* Preference for colorful products (e.g., headbands, scrunchies)
+* Appreciation for unique and trendy designs (e.g., patterns, shapes)
+* Focus on comfort and practicality (e.g., elastic headbands, breathable materials)
+
+These interests seem to indicate a playful and fashion-conscious individual.
+
+**Long-Term Preference Analysis**
+
+Our analysis reveals a pattern of preferences across multiple reviews:
+
+* Affinity towards feminine and gentle products (e.g., skincare, beauty accessories)
+* Disposition toward natural ingredients and essential oils
+* Proclivity towards relaxing and calming experiences
+
+User 4 Profile and Candidate Items:
+Based on your reviews, here is your comprehensive user profile:
+
+**Short-Term Interests:** 
+Your recent purchases suggest an interest in beauty-related products such as skincare, hair accessories, and cosmetics. Specifically, you've been drawn to colorful and fashionable items, particularly those catering to younger audiences.
+
+**Long-term Preferences:**
+Analyzing your entire purchase history reveals a broader preference for affordable, practical, and reliable products across various categories. You tend towards gentle, non-irritating ingredients, preferring hypoallergenic options whenever possible. Your tastes often lean toward simplicity, elegance, and ease of use.
+
+**Profile Summary**: 
+You're a savvy shopper seeking value without compromising quality.
+
+User 4 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the user's recent reviews, we observe the following patterns:
+
+* She tends to purchase products related to beauty and personal care, particularly accessories like headbands, scrunchies, and bath bombs.
+* She prefers bright and vibrant colors, often opting for pastels, neons, and florals.
+* She appreciates comfort and practicality in her purchases, evident from her liking for elastic headbands, gentle skincare products, and portable travel-sized toiletries.
+
+**Long-Term Preference Analysis:** By examining her entire review history, we find commonalities such as:
+
+* She favors natural ingredients, organic options, and cruelty-free practices in her
+
+User 4 Profile and Candidate Items:
+**Short-Term Interests:** 
+Based on the provided reviews, we observe some commonalities:
+
+* The user tends to appreciate products with unique color schemes and designs, such as the pastel shades in the first product and the marble pattern in the second product.
+* She prefers products made specifically for women, particularly those related to beauty, fashion, and self-care.
+* The user seems to value comfort, convenience, and practicality, evident in her appreciation for products that offer ease-of-use, portability, and effectiveness.
+
+**Long-Term Preferences:** 
+By analyzing the user's historical data, we notice recurring patterns and themes:
+
+* The user often seeks out products that cater
+
+User 4 Profile and Candidate Items:
+**Short-Term Interests:** Based on the latest products reviewed by the user, we observe some common patterns:
+
+* Interest in beauty-related products, specifically focusing on skincare, hair accessories, and makeup tools.
+* Preference for colorful, vibrant products that appeal to younger women, such as bolder shades and playful designs.
+
+**Long-Term Preferences:** By analyzing the user's entire reviewing history, we identify recurring preferences:
+
+* Focus on comfort, ease-of-use, and practicality in various aspects of daily life (e.g., hygiene, relaxation).
+* Appreciation for affordable prices without compromising quality.
+* Enjoyment of unique, distinctive, and eye-catching designs in personal care items.
+
+**
+
+User 4 Profile and Candidate Items:
+**Short-Term Interest Analysis**
+Based on the provided reviews, we notice some common trends:
+
+* The user tends to prefer products with unique features such as customizable color options, exclusive designs, and special materials.
+* She seems to appreciate gifts with sentimental value, especially those containing inspirational messages.
+* Her primary concerns while shopping appear to revolve around quality, comfort, and aesthetics.
+
+**Long-Term Preference Analysis**
+
+After analyzing the user's complete review history, we identify persistent patterns and preferences:
+
+* She favors affordable prices without compromising on quality.
+* Her taste leans towards gentle, calming scents and natural ingredients.
+* She prefers products with simple, clean design and minimal branding.
+
+**Comprehensive
+
+User 4 Profile and Candidate Items:
+Based on the provided user reviews, we've analyzed the user's behavior and preferences to create a comprehensive user profile.
+
+**Short-Term Interest**: Our analysis reveals that the user tends to prefer products with vibrant colors, particularly shades of pink, purple, and yellow. They appreciate unique designs and attention-grabbing features. Additionally, the user seems drawn to affordable prices, often expecting value-for-money deals.
+
+**Long-Term Preference**: Upon examining the user's entire review history, we notice recurring patterns:
+
+* Appreciation for comfort-oriented products, such as plush towels or cozy clothing.
+* A fondness for beauty-related items, including skincare sets, perfumes, and makeup accessories.
+*
+
+User 4 Profile and Candidate Items:
+Here is your requested response:
+
+**Short-Term Interest Analysis**
+Based on the provided reviews, we notice some common patterns and preferences among the user. These include:
+* **Color scheme**: Pastel pinks, purples, and yellows seem to appeal to the user, although she expresses disappointment in the limited color palette offered by certain products.
+* **Comfort**: The user prioritizes comfort when selecting products, such as preferring elastic headbands and enjoying the feeling of silky textures.
+* **Aesthetics**: She appreciates visually appealing designs, including stylish packaging and fashionable accessories.
+
+**Long-Term Preference Analysis**
+
+Our analysis reveals several underlying preferences and tendencies throughout the user's purchasing history
+
+User 4 Profile and Candidate Items:
+Based on the provided user reviews, we've created a comprehensive user profile summarization.
+
+**Short-Term Interest Analysis**
+
+From the latest reviewed products, it seems our user has been interested in exploring various fashion accessories such as hair bands, scrunchies, and possibly some beauty-related items. She tends to appreciate colorful, trendy, and affordable options. When selecting products, she considers factors like comfort, durability, and value-for-money.
+
+**Long-Term Preference Analysis**
+
+Analyzing the user's complete review history reveals underlying preferences:
+
+* **Fashion-conscious**: Our user enjoys staying updated with the latest trends and appreciates unique, stylish designs.
+* **Practicality-oriented**: She prioritizes
+
+User 4 Profile and Candidate Items:
+**Short-Term Interest Analysis**
+Based on the provided reviews, we notice that the user has shown interest in:
+
+* Pastel shades (pink, purple, and yellow)
+* Comfortable and practical products (e.g., headbands, reusable shower caps)
+* Affordable prices (<$16)
+
+These observations suggest that the user values aesthetics, comfort, and affordability.
+
+**Long-Term Preference Analysis**
+
+After analyzing the user's entire review history, we observe that she tends towards:
+
+* Products with unique features (e.g., scrubby texture, lavender scent)
+* High-quality materials (e.g., silk, cotton)
+* Good value for money (comparing prices among brands and options)
+
+User 4 Profile and Candidate Items:
+Based on the provided user reviews, we can analyze the user's behavior patterns and identify common traits among his/her choices.
+
+**Short-Term Interest Analysis**
+From the latest reviewed products, we observe:
+
+* The user tends towards purchasing colorful, fashionable accessories such as headbands (Nxconsu 12Pcs Headbands).
+* He/she appreciates comfort and practicality while shopping for personal care items (Reusable Shower Cap, SpaNature Aloe Vera Hand & Body Lotion).
+
+These observations indicate that the user prioritizes aesthetics, convenience, and functionality in their daily life.
+
+**Long-Term Preference Analysis**
+
+Examining the user's reviewing activity throughout their account reveals some consistent preferences:
+
+*
+
+User 4 Profile and Candidate Items:
+Based on the provided reviews, I've analyzed the user's preferences and created a comprehensive user profile.
+
+**Short-Term Interests:** Based on the latest reviewed products, we see that the user:
+
+* Enjoys colorful and fashionable accessories, such as hair bands and scrunchies.
+* Appreciates comfort and practicality in their daily life, as seen in their interest in reusable shower caps and hand sanitizers.
+* Has an affinity for unique and eye-catching designs, evident in their admiration for decorative bathroom sets and makeup organizers.
+* Values quality and effectiveness in skincare products, demonstrated by their preference for natural ingredients and gentle formulas.
+
+**Long-Term Preferences:** Examining the user's
+
+User 4 Profile and Candidate Items:
+**Short-Term Interest Analysis**: From the latest products reviewed by the user, we notice the following patterns:
+
+* **Color-related trends**: Pastel shades (pink, purple, yellow), bold color (emerald green), neutral tones (black, white) seem to interest the user. These colors appear frequently across multiple reviews.
+* **Comfort-oriented products**: Products emphasizing comfort, such as elastic headbands, breathable materials, and gentle formulas, gain attention from the user.
+
+**Long-Term Preference Analysis**: By examining the user's full review history, we observe recurring themes and preferences:
+
+* **Fragrances and aromas**: Users often appreciate mild, pleasant smells without being overpowering
+
+User 4 skipped after 20 retries in generating profile.
+
+User 5 Profile and Candidate Items:
+**Short-Term Interest:** Based on the user's recent reviews, we observe interest in personal care products such as skincare creams, dental hygiene tools, body washes, and natural remedies.
+
+**Long-term Preference:** Analysis reveals that the user tends towards preferring eco-friendly, sustainable, and cruelty-free products made from natural ingredients, particularly those related to skincare, haircare, and oral health.
+
+**User Profile Summary:** Our user appears to prioritize environmentally conscious choices in daily life, embracing innovative solutions within the realm of personal care. They appreciate high-quality products derived from nature, often seeking certifications like 'organic' or 'cruelty-free'. Within specific areas like skincare and oral healthcare, they demonstrate an affinity for reliable brands offering effective yet gentle treatments. When faced with environmental concerns, users tend to opt for reusable alternatives, such as wooden earbushes, instead of disposable options.
+
+Based on this comprehensive profile, here are five candidate item recommendations:
+
+* **Eco-Friendly Toothpaste**: A toothpaste containing natural ingredients, free from harsh chemicals, and sustainably sourced packaging would likely appeal to this user.
+* **Organic Essential Oils Kit**: A starter kit featuring pure essential oils extracted from natural sources, accompanied by educational resources on safe usage, might captivate this individual's love for natural remedies and sustainability.
+* **Natural Lip Care Set**: A lip balm collection consisting of nourishing formulas infused with botanicals, beeswax, and coconut oil would resonate with this user's appreciation for wholesome, chemical-free products.
+* **Bamboo Toilet Brush Holder**: As an advocate for eco-friendliness, this user may enjoy replacing traditional toilet brushes with biodegradable, compostable holders crafted from bamboo.
+* **Customizable Natural Perfume Blend**: An artisanal perfume blend service allowing customers to craft bespoke fragrances utilizing essential oils and natural essences would intrigue this user due to its alignment with their values regarding the importance of sustainability and authenticity.
+
+Please note that these suggestions aim to cater to the user's observed tendencies and preferences; however, actual suitability depends on various factors beyond my knowledge, including individual experiences and sensitivities. Always consult expert advice or conduct thorough research prior to adopting any new products or practices.
+
+User 5 Extracted Product Names:
+['**Eco-Friendly Toothpaste**: A toothpaste containing natural ingredients, free from harsh chemicals, and sustainably sourced packaging would likely appeal to this user.', "**Organic Essential Oils Kit**: A starter kit featuring pure essential oils extracted from natural sources, accompanied by educational resources on safe usage, might captivate this individual's love for natural remedies and sustainability.", "**Natural Lip Care Set**: A lip balm collection consisting of nourishing formulas infused with botanicals, beeswax, and coconut oil would resonate with this user's appreciation for wholesome, chemical-free products.", '**Bamboo Toilet Brush Holder**: As an advocate for eco-friendliness, this user may enjoy replacing traditional toilet brushes with biodegradable, compostable holders crafted from bamboo.', '**Customizable Natural Perfume Blend**: An artisanal perfume blend service allowing customers to craft bespoke fragrances utilizing essential oils and natural essences would intrigue this user due to its alignment with their values regarding the importance of sustainability and authenticity.', "Please note that these suggestions aim to cater to the user's observed tendencies and preferences", 'however, actual suitability depends on various factors beyond my knowledge, including individual experiences and sensitivities. Always consult expert advice or conduct thorough research prior to adopting any new products or practices.']
+
+User 5:
+Test Product ASIN: B08SBV6Z57
+Recommended Products:
+  1. ASIN: B07DKRK8ZW - Similarity: 40.00% - No Match
+  2. ASIN: B08P5579KC - Similarity: 50.00% - No Match
+  3. ASIN: B09SH1FD9S - Similarity: 30.00% - No Match
+  4. ASIN: B08JTNQFZY - Similarity: 40.00% - No Match
+  5. ASIN: B09GVHT2D3 - Similarity: 30.00% - No Match
+  6. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  7. ASIN: B0713VF172 - Similarity: 40.00% - No Match
+  8. ASIN: B084ZHP45Y - Similarity: 50.00% - No Match
+  9. ASIN: B08BF4BKKM - Similarity: 40.00% - No Match
+  10. ASIN: B07Z3NRMBS - Similarity: 30.00% - No Match
+  11. ASIN: B09C5NQSC5 - Similarity: 40.00% - No Match
+  12. ASIN: B0B2L218H2 - Similarity: 30.00% - No Match
+  13. ASIN: B082VKPJV5 - Similarity: 50.00% - No Match
+  14. ASIN: B07W1WJZFG - Similarity: 30.00% - No Match
+  15. ASIN: B07ZS3DKL5 - Similarity: 40.00% - No Match
+  16. ASIN: B08MC3ZLV4 - Similarity: 40.00% - No Match
+  17. ASIN: B08G5YVHQP - Similarity: 40.00% - No Match
+  18. ASIN: B08N9RT9YD - Similarity: 30.00% - No Match
+  19. ASIN: B09G3KBK7Y - Similarity: 40.00% - No Match
+  20. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+
+User 6 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest three reviews, there seems to be an emphasis on facial cleansing, moisturization, and anti-aging concerns. The users appear interested in using effective products that cater to specific skin issues such as dryness, sensitivity, and fine lines.
+
+**Long-Term Preference Analysis:** By examining the full dataset of reviewed products, some common threads emerge:
+
+* **Natural Ingredients**: Users prefer products containing natural extracts and essences, indicating a desire for more organic and sustainable options.
+* **Moisturization and Hydration**: Products focusing on intense hydration, nourishment, and locking-in moisture seem to resonate well with users, suggesting a priority on maintaining healthy, supple skin.
+* **Anti-Aging Concerns**: Many products addressing signs of aging, wrinkles, and collagen production have been favored, implying an interest in slowing down the visible effects of aging.
+* **Cruelty-free and Sustainable Packaging**: Several brands mentioned prioritize sustainability, cruelty-free practices, and eco-friendly packaging, which suggests an importance placed on socially responsible business practices.
+
+**User Profile Summary:** Our analysis reveals a user who prioritizes natural, effective, and sustainably sourced skincare products. They focus on maintaining hydrated, smooth skin while combating signs of aging. They appreciate innovative formulations, unique ingredient combinations, and thoughtful packaging. We anticipate our user will continue seeking products that address their specific skin concerns, incorporating cutting-edge technology and holistic approaches.
+
+**Candidate Item Generation:** Based on the analyzed trends, here are five recommended product categories that align with our user's preferences:
+
+1. **Hydrating Facial Creams**: Rich, non-greasy creams infused with plant-based actives, providing long-lasting hydration and nourishment.
+2. **Collagen-stimulating Serums**: Formulations featuring peptides, antioxidants, and plant-derived compounds targeting collagen synthesis, plumping, and smoothing.
+3.
+
+User 6 Extracted Product Names:
+['Hydrating Facial Creams', 'Collagen-stimulating Serums', '.']
+
+User 6:
+Test Product ASIN: B08PVH18Z6
+Recommended Products:
+  1. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  2. ASIN: B08VQY1Z1S - Similarity: 60.00% - No Match
+  3. ASIN: B093H28PD4 - Similarity: 40.00% - No Match
+  4. ASIN: B08GJJ5RV9 - Similarity: 40.00% - No Match
+  5. ASIN: B07NPCT6L5 - Similarity: 40.00% - No Match
+  6. ASIN: B087D7MVHB - Similarity: 50.00% - No Match
+  7. ASIN: B08WF29DM9 - Similarity: 30.00% - No Match
+  8. ASIN: B07MN1KJ15 - Similarity: 30.00% - No Match
+  9. ASIN: B087J3H22J - Similarity: 40.00% - No Match
+  10. ASIN: B0949MJRHK - Similarity: 30.00% - No Match
+  11. ASIN: B07WNBZQGT - Similarity: 30.00% - No Match
+  12. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  13. ASIN: B09FNTZFZZ - Similarity: 30.00% - No Match
+  14. ASIN: B084WP4XS8 - Similarity: 50.00% - No Match
+  15. ASIN: B08693T3XR - Similarity: 40.00% - No Match
+  16. ASIN: B08HVRP54L - Similarity: 40.00% - No Match
+  17. ASIN: B081MQD52C - Similarity: 40.00% - No Match
+  18. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  19. ASIN: B08QVJ4NVD - Similarity: 40.00% - No Match
+  20. ASIN: B08HRNPNR5 - Similarity: 40.00% - No Match
+
+User 7 Profile and Candidate Items:
+#### Comprehensive User Profile:
+
+Based on the provided user reviews, we've created a comprehensive user profile that captures their interests, preferences, and behaviors.
+
+**Short-Term Interests:** 
+The user appears to be interested in skincare and personal care products, particularly those focused on soothing and moisturizing dry skin. They have reviewed various products including lotions, facial masks, and shampoos, suggesting a current focus on addressing specific skin concerns.
+
+**Long-Term Preferences:**
+Analyzing the user's historical reviews reveals a strong interest in natural and organic products, as well as a preference for gentle, non-greasy formulations. Their fondness for products containing ingredients such as aloe vera, neroli essential
+
+User 7 Profile and Candidate Items:
+Based on the provided information, here is your user profile summary:
+
+**Short-Term Interests:** The user seems to prioritize skincare and personal grooming products, particularly those focused on hydration, soothing, and anti-aging benefits. They appear to favor natural, non-greasy, and fragrance-free formulas.
+
+**Long-Term Preferences:** An analysis of the user's extensive review history reveals a preference for products that cater to various skin types, including dry, sensitive, and combination skin. They tend to appreciate gentle, effective, and multi-purpose products. Additionally, the user appears drawn to brands offering unique blends, such as neroli essential oil scents and kaolin clay masks.
+
+**User Profile Summary:** Based
+
+User 7 Profile and Candidate Items:
+Here is the Comprehensive User Profile:
+
+**Short-Term Interests**: Based on the latest reviews, we observe that the user is interested in skincare and personal grooming products, particularly focused on hydration, soothing, and antiaging benefits.
+
+* Recent purchases include LA LA Leaf Guayaquil hemp lotion, Gentlehomme Face Moisturizer, and other skincare products.
+* Their interest lies in natural ingredients, fragrance-free formulas, and non-greasy textures.
+
+**Long-Term Preferences**: Analysis of the user's entire review history reveals recurring patterns and favorites:
+
+* They prefer products containing natural ingredients such as hemp, aloe vera, neroli essential oil, kaolin clay, avocado oil, green tea, cucumber,
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the user's recent reviews, we observe a strong interest in skincare products, specifically focusing on natural ingredients, hydration, and anti-aging benefits. There seems to be a preference for gentle, non-greasy formulas suitable for various skin types.
+
+**Long-Term Preference Analysis:** Reviewing the user's entire history reveals a consistent pattern of seeking effective, natural solutions for various aspects of personal care, including hair care, skin care, and makeup removal. They appear to prioritize high-quality, cruelty-free products free from harsh chemicals and artificial fragrances.
+
+**Comprehensive User Profile:**
+Our analysis suggests that this individual values:
+
+* Effective, natural ingredient-based products that
+
+User 7 Profile and Candidate Items:
+Based on the provided user reviews, here is the generated user profile summary:
+
+**Short-Term Interest:** 
+Our user appears to have recently purchased several personal-care-related products, focusing primarily on skincare, haircare, and grooming items. They seem interested in natural, organic, and cruelty-free options with soothing properties.
+
+**Long-Term Preference:**
+Upon analyzing the user's extensive review history, we found a consistent interest in exploring different types of skincare treatments, particularly those addressing specific concerns such as dryness, sensitivity, and aging. Their affinity towards products containing beneficial ingredients like honey, avocado, and green tea suggests a strong emphasis on natural solutions. Additionally, their willingness to experiment with various textures, scents
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the user's latest reviews, we can identify their interest in skincare, haircare, and personal grooming products. They seem to prioritize natural ingredients, cruelty-free practices, and effective formulas.
+
+* Skincare: Users mentioned the importance of hydration, soothing, and anti-aging benefits, with specific mentions of hemp oil, neroli essential oil, kaolin clay, and moroccan rhassoul clay.
+* Haircare: The users appreciate boar bristle brushes, shampoos, conditioners, and masks that promote healthy hair growth, manageability, and shine. They prefer products containing avocado oil, green tea, and cucumber-aqua extracts.
+
+**Long-T
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis**: Based on the latest reviews, we see a pattern emerging:
+
+* There's a focus on skincare, particularly around hydration, moisture, and soothing properties.
+* The user prefers natural and organic products, free from harsh chemicals.
+* They tend towards products containing plant extracts, such as aloe vera, green tea, and cucumber.
+
+These short-term interests indicate that the user is currently interested in exploring different aspects of personal grooming and self-care. Their preferences seem centered around achieving healthier, more radiant-looking skin.
+
+**Long-Term Preference Analysis**: Reviewing the user's complete history reveals several key patterns:
+
+* Consistent interest in skincare products, including facial masks, moisturizers, and
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest reviews, we observe two dominant trends:
+
+1. **Dry/Sensitive Skin Concerns**: Many users have mentioned dealing with dry/sensitive skin, which prompted them to explore various skincare products to address these concerns.
+
+2. **Natural/Organic Ingredients**: Users seem drawn to natural and organic ingredients, such as essential oils, plant extracts, and herbal infusions, indicating a preference for non-artificial or synthetic components in personal care products.
+
+**Long-Term Preference Identification:** Through analyzing past reviews, we identified persistent patterns:
+
+1. **Moisturization and Hydration**: Consistent interest in products providing hydration and moisture, particularly for dry/sensitive
+
+User 7 Profile and Candidate Items:
+**Short-Term Interests:** Based on the provided reviews, we identify the following short-term interests:
+
+* Interest in skincare and personal care products, particularly focused on hydration, soothing, and moisturization.
+* Preference for natural and organic ingredients, such as hemp, rose flower water, aloe vera, and essential oils.
+* Concerns regarding sensitivity, dryness, and acne-prone skin.
+
+**Long-Term Preferences:** Analyzing the user's entire review history reveals persistent patterns and preferences:
+
+* Appreciation for gentle, non-greasy, and fragrance-free products suitable for various skin types.
+* Favor towards products containing natural active ingredients, antioxidants, and anti-inflammatory agents.
+* Tendency to seek
+
+User 7 Profile and Candidate Items:
+**Short-Term Interests:** 
+Based on the recent reviews provided, we can identify the following trends:
+
+* The user tends to favor skincare-related products, particularly those focusing on hydration, anti-aging, and soothing properties.
+* They show interest in natural and organic ingredients, such as hemp oil, aloe vera, and kaolin clay.
+* There is a preference for products with pleasant scents, especially floral notes like neroli essential oil.
+
+**Long-Term Preferences:**
+Analyzing the user's entire review history reveals more profound patterns:
+
+* They tend towards products with moisturizing and nourishing qualities, often looking for solutions to address specific concerns like dry skin, eczema, or acne
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the provided reviews, we identify the following patterns:
+
+* **Skin Care**: There seems to be a focus on natural ingredients, hydration, and gentle formulas across multiple products reviewed.
+* **Haircare**: Boar-bristled brushes, shampoos, conditioners, and masks were praised for their ability to soften, shine, and manage hair.
+
+**Long-Term Preference Analysis:** From reviewing the user's entire history, we observe:
+
+* **Natural Ingredients**: Many products featuring natural ingredients such as plant extracts, essential oils, and herbal remedies were consistently favored.
+* **Hydration**: Products providing moisture and hydration received high praise for addressing various skin concerns.
+*
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the provided reviews, we identify commonalities among them:
+
+* Focus on skincare and personal grooming products
+* Emphasis on natural, organic, and non-greasy formulations
+* Concerns about dry, sensitive skin, and searching for effective solutions
+
+These short-term interests suggest that the user prioritizes finding reliable products addressing specific concerns related to their skin type.
+
+**Long-Term Preference Analysis:** Examining the user's complete review history reveals patterns and trends indicative of their enduring preferences:
+
+* Consistent interest in natural, organic, and eco-friendly products
+* Tendency towards more expensive, high-end brands offering premium quality
+* Appreciation for unique, innovative
+
+User 7 Profile and Candidate Items:
+**Short-Term Interests:** Based on the latest reviewed products, we observe that the user prefers:
+
+* Products related to skincare and personal care, specifically focusing on natural ingredients, hydration, and anti-aging benefits.
+* Brands offering high-quality, effective, and luxurious products, such as La La Leaf, John Frieda, and Hask.
+
+**Long-Term Preferences:** Through analyzing the user's entire review history, we identify recurring patterns and preferences:
+
+* Emphasis on natural and organic ingredients, particularly essential oils, plant extracts, and herbal remedies.
+* Interest in products addressing specific concerns like dry skin, acne, aging, and sensitivity.
+* Preference for gentle, non-comedogenic, and fragrance
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the provided reviews, we see that the user primarily focuses on skincare, haircare, and personal grooming products. They tend to favor natural and organic ingredients, preferring cruelty-free and eco-friendly options whenever possible. Their interest lies in seeking solutions for specific concerns such as dry skin, acne-prone areas, and frizzy hair.
+
+Key terms extracted:
+
+* Skincare
+* Haircare
+* Personal grooming
+* Natural ingredients
+* Organic
+* Cruelty-free
+* Eco-friendly
+
+**Long-Term Preference Analysis:** Examining the user's complete review history reveals a pattern of consistently exploring different products across various brands. Although there might be some inconsistencies, their
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the user's latest reviewed products, we observe a pattern of interest towards skincare and personal grooming products. Specifically:
+
+* Products containing natural ingredients such as aloe vera, keratin, and essential oils tend to appear frequently in their reviews.
+* There seems to be a preference for products designed for men, particularly razors and shavers.
+
+**Long-Term Preference Analysis:** Our analysis of the user's complete review history reveals several persistent patterns and trends:
+
+* They consistently show enthusiasm for products offering hydration, moisture, and nourishment benefits, especially for skin and hair.
+* Users favor products made with organic/natural ingredients, free-from harsh chemicals, and cruelty-free practices
+
+User 7 Profile and Candidate Items:
+**Short-Term Interests:** 
+Based on the provided user reviews, we identify the following trends:
+
+* Interest in skincare products, specifically focusing on natural and organic ingredients, hydration, anti-aging, and soothing properties.
+* Preference for gentle, non-greasy, and fragrance-free products suitable for sensitive skin.
+* Concerns about product efficacy, especially related to dryness, cracking, and fine lines.
+
+**Long-Term Preferences:**
+Analyzing the user's entire review history reveals deeper, more consistent patterns:
+
+* Consistent interest in skincare and personal grooming products.
+* Emphasis on natural, organic, and eco-friendly options.
+* Appreciation for multi-purpose products offering multiple benefits.
+* T
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest reviewed products, we observe a trend towards skincare and personal grooming products. Specifically:
+
+* There's a focus on natural and organic ingredients, such as hemp, aloe vera, and essential oils.
+* Products addressing specific concerns like dry skin, acne, and aging are popular.
+
+These observations suggest that the user values effective solutions for maintaining healthy-looking skin and is open to exploring different options.
+
+**Long-Term Preference Analysis:** Our analysis reveals patterns across the user's extensive review history:
+
+* They tend to favor brands known for offering high-quality, cruelty-free, and eco-friendly products.
+* Products containing botanicals, antioxidants, and other natural extracts are frequently mentioned
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis**: Based on the latest reviews, we see the following patterns emerging:
+
+* **Hemp-based skincare products**: The user has shown interest in products containing hemp, such as the Guayaquil hemp lotion for dry skin.
+* **Natural and organic ingredients**: Products featuring natural and organic ingredients like coconut oil, aloe vera, and essential oils (e.g., neroli) seem appealing to the user.
+
+**Long-Term Preference Analysis**: Through analyzing past reviews, we identify recurring themes and preferences:
+
+* **Moisturizing and hydration**: Users often mention seeking effective moisturizers for various skin types and conditions, including acne-prone skin, hyperpigmentation, and anti-
+
+User 7 Profile and Candidate Items:
+Here is your requested output:
+
+**Short-Term Interest Analysis**
+
+Based on the provided reviews, we observe that the user tends to favor products related to skincare and personal grooming, particularly focusing on moisturization, hydration, and soothing properties. They seem interested in natural and organic products free from harsh chemicals.
+
+Some notable patterns include:
+
+* Preference for non-greasy textures
+* Emphasis on plant-based extracts and essential oils
+* Focus on specific ingredient combinations, such as hemp oil, rose flower water, and aloe vera
+
+These observations form the foundation of our analysis moving forward.
+
+**Long-Term Preference Analysis**
+
+Through analyzing the user's historical reviews, we uncover several persistent themes that have emerged across various
+
+User 7 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the user's recent reviews, we see that she/he is interested in skincare, beauty products, personal grooming, and haircare. Specifically:
+
+* Skincare: There are multiple mentions of skincare-related products such as lotions, masks, and foams.
+* Beauty Products: She/he seems attracted to natural ingredients, organic options, and fragrance-free products.
+
+**Long-Term Preference Analysis:** From analyzing her/his complete review history, we observe recurring patterns and preferences related to:
+
+* **Natural Ingredients**: Many of her favorite products feature natural ingredients, emphasizing the importance of avoiding harsh chemicals and synthetic substances.
+* **Skin Health**: Her/his reviews focus on achieving
+
+User 7 skipped after 20 retries in generating profile.
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, I've created a comprehensive user profile.
+
+**Short-Term Interests:** 
+The user appears to have recently explored makeup-related products, specifically eyeshadows, mascaras, sunscreens, skincare creams, lotions, and essences. They tend to favor products with specific ingredients like peptides, hyaluronic acid, ceramides, and sedum extract. Their interest lies in finding suitable products for their combination skin type (dry, sensitive, and prone to redness).
+
+**Long-Term Preferences:**
+An analysis of the user's entire review history reveals a deep-seated preference for skincare products containing natural ingredients, peptides, and hyaluronic acid. They prioritize products that address their concerns related to aging, dehydration, and sensitivity. Additionally, they seem
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we've created a comprehensive user profile.
+
+**Short-Term Interests:**  
+The user appears interested in beauty-related products, specifically makeup and skincare. They seem drawn to easy-to-use products with natural ingredients, such as eyeshadows and facial creams. Their preferences lean towards lightweight, non-greasy textures and gentle formulas suitable for sensitive skin.
+
+**Long-term Preferences:**   
+Analyzing the user's entire history reveals a strong interest in organic, natural, and eco-friendly products. They tend to favor brands emphasizing sustainability, using high-quality ingredients, and catering to specific skin types or conditions (e.g., dry, sensitive, or rosacea-prone skin).
+
+**User Profile Summary:**  
+
+Our user exhibits a fascination with simplicity and ease-of-use when it comes to beauty
+
+User 8 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest reviews provided, we notice recurring interest patterns:
+
+* **Makeup**: The user frequently explores makeup-related products, particularly eyeshadows, mascaras, and skincare routines.
+* **Skincare**: They emphasize importance of gentle, non-drying, and hydrating products suitable for sensitive/dry skins.
+
+These trends indicate the user currently focuses on enhancing facial appearance while catering to specific skin concerns.
+
+**Long-Term Preference Analysis:** After analyzing all reviews across different product categories, we identify persistent preferences:
+
+* **Natural ingredients**: Throughout the user's history, there is a preference towards natural ingredients, organic content, and avoidance of harsh chemicals.
+* **Skin type adaptation**: Products addressing diverse skin types, including those prone to rosacea, eczema, and
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we can identify key patterns and trends in the user's preferences:
+
+Short-Term Interests:
+
+* Recent interest in makeup-related products, specifically eyeshadows and mascaras
+* Preference for lightweight, non-greasy formulas
+* Interest in specific brands such as Almay and Ogana Cell
+
+Long-Term Preferences:
+
+* Dry skin type, which influences her preference for moisturizing products
+* Concerned about maintaining a healthy skin barrier and addressing signs of aging (e.g., wrinkles)
+* Appreciation for natural ingredients, peptides, and ceramides in skincare products
+* Interest in sun protection and anti-pollution measures
+
+User Profile Summary:
+Our user appears to value simplicity and effectiveness in her beauty routines. She prefers lightweight, easy-to-use products that cater
+
+User 8 Profile and Candidate Items:
+Here is the user profile summary:
+
+This user appears to prioritize skincare and makeup routines, particularly focusing on natural ingredients, gentle formulas, and customized solutions tailored to her specific skin type (dry, sensitive, and prone to rosacea). She tends to favor brands offering hypoallergenic options, such as Easydew, which she finds reliable and effective.
+
+In terms of personal style, our user leans towards simplicity and subtlety when choosing beauty products, opting for understated shades and versatile textures that allow for effortless application and blending. Her taste buds also seem drawn toward innovative packaging concepts and eco-friendly materials.
+
+Our analysis reveals a strong affinity for high-quality skincare essentials, including peptiderich serums, soothing creams, and rejuvenating elixirs. Furthermore, we've detected a penchant for indulging
+
+User 8 Profile and Candidate Items:
+**Short-Term Interests:** Based on the user's latest reviews, we observe a focus on skincare and beauty products. Specifically:
+
+* Interest in eyeshadows and mascaras
+* Exploration of different skin types and concerns (e.g., dry skin, rosacea)
+* Enthusiasm for brands offering natural ingredients and hypoallergenic properties
+
+**Long-Term Preferences:** By analyzing the user's complete review history, we identify recurring patterns and preferences:
+
+* Strong affinity for specific skincare brand names (Easydew, Ogana Cell, Celimax)
+* Consistent interest in peptides, ceramides, hyaluronic acid, and other actives promoting skin health
+* Appreciation for lightweight, non-greasy textures and gentle formulas suitable for sensitive skin
+* Preference for travel-sized
+
+User 8 Profile and Candidate Items:
+Here is the comprehensive user profile:
+
+**Short-Term Interest:** Based on the user's latest reviews, we observe that she tends to focus on skincare, makeup, and personal grooming products. Specifically, her attention centers around finding suitable products for her sensitive, dry skin type.
+
+**Long-Term Preference:** Through analyzing the user's historical reviews, we identify several key aspects influencing her purchasing decisions:
+
+* **Skincare concerns**: She prioritizes products addressing specific issues such as dryness, rosacea, and aging signs (e.g., fine lines).
+* **Natural ingredients**: Her preference leans towards natural, non-comedogenic formulas free from harsh chemicals, artificial fragrances, and dyes.
+* **Moisturization**: Effective moisturizers and humectants play a crucial role in maintaining optimal hydration levels
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we'll analyze the user's behavior and preferences to create a comprehensive user profile.
+
+**Short-Term Interests:** From the latest reviews, it appears that the user:
+
+* Has been exploring various skincare products, focusing on moisturization, anti-aging, and soothing properties.
+* Is interested in makeup products, specifically eyeliners and mascaras.
+* May be experiencing issues related to dry skin and rosacea, seeking solutions through different creams, lotions, and essences.
+
+**Long-Term Preferences:** By analyzing the user's entire history, we notice recurring patterns and preferences:
+
+* The user tends to gravitate towards products containing peptides, ceramides, hyaluronic acid, and other ingredients known for their moisturizing and regenerative properties.
+* They seem
+
+User 8 Profile and Candidate Items:
+**Short-Term Interest Analysis**
+
+The user's recent reviews suggest a focus on skincare and beauty products, specifically:
+
+* Eye makeup and mascaras
+* Skincare routines and lotions/cleansers
+* Moisturizers and sunscreens
+
+These interests seem to be driven by concerns related to aging, dry skin, and maintaining a youthful appearance.
+
+**Long-Term Preference Analysis**
+
+Analyzing the user's complete review history reveals persistent patterns and preferences:
+
+* Affinity towards high-quality, natural ingredients and hypoallergenic products
+* Appreciation for lightweight, non-greasy textures and fragrances-free formulations
+* Concerns regarding sensitive skin, particularly around issues such as rosacea and dryness
+* Desire for effective, yet gentle, skincare solutions that cater to specific needs (e.g., anti-w
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we can identify three main categories of interest:
+
+**Short-Term Interest:** Simple makeup routines, specific shades and colors, lightweight skincare, and natural ingredients.
+
+* Review keywords: eye shadows, pencils, light colors, blendability, pearl, white, pink, yellow-champagne.
+* Key phrases: "simple," "lightweight," "natural."
+
+**Long-Term Preference:** Skincare focused on hydration, anti-aging, and soothing properties, with emphasis on ceramides, peptides, and hyaluronic acid.
+
+* Review keywords: epidermal growth factor (EGF), moisturizing, hydrated, gentle, non-drying, soothing, anti-wrinkling, rejuvenation.
+* Key phrases: "hydration," "anti-aging," "so
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we'll create three parts: Short-Term Interests, Long-term Preferences, and User Profile Summary.
+
+**Short-Term Interests:** Recent Products and Descriptions:
+
+* Pippa Of London Magic Star Eyeshadow Powder Pencil
+	+ Likes simple makeup routines using eye shadow pencils with light colors
+* Lenghthening Mascara by Almay
+	+ Pleasantly surprised by its effectiveness in making her brown eyes stand out
+
+These two products suggest the user enjoys beauty and self-care products, particularly those related to skincare and makeup.
+
+**Long-term Preferences:** Historical Analysis:
+
+From the user's historical reviews, we notice recurring patterns in their preferences:
+
+* Skincare: They've consistently praised various skincare products from different brands, highlighting their efficacy and gent
+
+User 8 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest reviews, we notice that the user tends towards:
+
+* Simple makeup routines with neutral shades, such as light colors, browns, and purples.
+* Gentle skincare products suitable for sensitive skin, particularly those containing ceramides and hyaluronic acid.
+* High-quality sunscreens with high SPF ratings.
+* Products with natural ingredients and peptides.
+
+**Long-Term Preference Analysis:** By examining the user's entire review history, we identify recurring patterns and preferences:
+
+* They prefer products catering to their specific skin type (dry, clear, and prone to Type 1 Rosacea).
+* They value effectiveness, gentleness, and ease-of-use in their beauty and personal care products.
+* They tend towards brands offering clinically-tested and hypoallergenic formulas
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we've analyzed the user's interests and created a comprehensive user profile.
+
+**Short-Term Interest:** The user appears to be interested in skincare and makeup products, particularly those related to dry skin and rosacea. They tend to favor lightweight, non-greasy formulas and are drawn to products containing ceramides, peptides, hyaluronic acid, and sedum extract.
+
+**Long-Term Preference:** After analyzing the user's entire review history, we identified several underlying trends:
+
+* The user tends towards products with natural ingredients and hypoallergenic properties.
+* They prefer gentle, non-irritating formulations suitable for sensitive skin.
+* There is a strong interest in anti-wrinkle and moisturizing products.
+* The user shows a preference for Korean sunscreens
+
+User 8 Profile and Candidate Items:
+**Short-Term Interest Analysis**
+
+The user has recently reviewed various skincare and beauty-related products, focusing primarily on moisturizers, sunscreens, serums, and creams. They seem to appreciate lightweight, non-greasy textures and enjoy exploring different ingredients such as peptides, ceramides, hyaluronic acid, sedum extract, and murmur seed.
+
+**Long-Term Preference Analysis**
+
+Analyzing the user's entire review history reveals recurring patterns:
+
+* Dry, sensitive skin concerns: The user frequently mentions dry skin, emphasizing the importance of gentle, hydrating products.
+* Skincare routines: Their reviews suggest they incorporate multiple steps into their daily routine, including exfoliation, serum application, and moisturization.
+* Ingredient-focused approach: Users tend to prioritize specific active ingredients when evaluating products, indicating a
+
+User 8 Profile and Candidate Items:
+**Short-Term Interests:** 
+The user recently reviewed several beauty-related products, including eyeshadows, skincare products, mascaras, sunscreens, facial lotions, creams, essences, hand wipes, and reusable shower caps. They seem to prioritize gentle, non-drying formulas suitable for sensitive skin, particularly when dealing with concerns such as rosacea.
+
+**Long-Term Preferences:** 
+Based on the user's historical reviews, we notice recurring patterns:
+
+* **Skincare enthusiast**: The user consistently explores various skincare products, focusing on ingredients like ceramides, peptides, hyaluronic acid, and sedum extract.
+* **Sensitive skin tolerance**: Their preference leans towards mild, fragrance-free, and hypoallergenic products catering to sensitive skin types.
+* **Rosacea management**: Many
+
+User 8 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest reviewed products, we observe a focus on skincare and beauty-related items, specifically:
+
+* Products containing peptides, ceramides, and hyaluronic acid (e.g., OGANA CELL Peptide Concentrating Amazing Lotion, CELEMAX The Real Sedum Aqua Boosting Essence)
+* Eye makeup and eyelash enhancers (e.g., Pippa Of London Magic Star Eyeshadow Powder Pencil, Lenghthening Mascara by Almay)
+* Simple, easy-to-use cosmetics (e.g., Pippa Of London Magic Star Eyeshadow Powder Pencil)
+
+These observations suggest the user values convenience, effectiveness, and specific ingredients when choosing cosmetic products.
+
+**Long-Term Preference Analysis:** By analyzing the user's entire
+
+User 8 Profile and Candidate Items:
+Based on the provided user reviews, we can identify patterns and trends that reveal the user's preferences and interests.
+
+**Short-Term Interest:** Based on the latest reviews, it appears that the user is currently interested in skincare and makeup-related products. They seem to enjoy using various creams, lotions, and serums from different brands, such as OGANA CELL, Easydew, and Celimax. Additionally, they appreciate lightweight, non-greasy textures and effective ingredients like peptides, hyaluronic acid, and ceramides.
+
+**Long-Term Preference:** Reviewing the user's entire history reveals a consistent preference for:
+
+* Skincare products containing natural ingredients, especially those targeting sensitive skin and addressing specific concerns like dryness, rosacea, and wrinkles.
+* Makeup products focusing on enhancing natural
+
+User 8 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the user's recent reviews, we notice that she tends towards lighter shades of eyeshadows (#PippaOfLondonMagicStarEyeshadowPowderPencil); prefers easy-to-use, gentle skincare products (EASYDEWStarterMoistWhipFoam); likes mascaras that enhance her natural look (AlmayLengthenMascara); favors sunscreens with high SPF ratings (FASCYLABGREENKoreansunscreen); uses peptiderich creams for anti-wrinkle purposes (OGANACELLBioActirecoverycreamandPeptideConcentratingAmazinglotion); enjoys hyaluronic-acid-based essences (CELIMAXTheRealSedumaquaBoostingessence); and appreciates hand wipes
+
+User 8 Profile and Candidate Items:
+Based on the provided reviews, we'll analyze each category separately before combining them.
+
+**Short-Term Interest Analysis**: We notice that our user prefers:
+
+* Simple makeup routines focusing on neutral shades
+* Eye shadows with subtle, natural finishes
+* Gentle, non-drying skincare products containing ceramides and hyaluronic acid
+* Products suitable for sensitive skin
+
+These trends suggest that the user values ease-of-use, simplicity, and gentle formulations in her beauty routine.
+
+**Long-Term Preference Analysis**: Examining the user's extensive review history reveals consistent patterns related to:
+
+* Favorability towards certain brands, such as Easydew and Ogana Cell, indicating brand loyalty
+* Appreciation for products addressing specific concerns like rosacea, dry skin, and aging
+* Emphasis on ingredients like peptides
+
+User 8 Extracted Product Names:
+['Simple makeup routines focusing on neutral shades', 'Eye shadows with subtle, natural finishes', 'Gentle, non-drying skincare products containing ceramides and hyaluronic acid', 'Products suitable for sensitive skin', 'Favorability towards certain brands, such as Easydew and Ogana Cell, indicating brand loyalty', 'Appreciation for products addressing specific concerns like rosacea, dry skin, and aging', 'Emphasis on ingredients like peptides']
+
+User 8:
+Test Product ASIN: B08K2WH8LK
+Recommended Products:
+  1. ASIN: B08F4ZDVZQ - Similarity: 30.00% - No Match
+  2. ASIN: B08F7877DC - Similarity: 40.00% - No Match
+  3. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  4. ASIN: B086VRRD99 - Similarity: 30.00% - No Match
+  5. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  6. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  7. ASIN: B0713VF172 - Similarity: 30.00% - No Match
+  8. ASIN: B08575Y9V3 - Similarity: 30.00% - No Match
+  9. ASIN: B08MPK4JRB - Similarity: 40.00% - No Match
+  10. ASIN: B08GJJ5RV9 - Similarity: 30.00% - No Match
+  11. ASIN: B07ZQRX7FX - Similarity: 20.00% - No Match
+  12. ASIN: B08JTNQFZY - Similarity: 30.00% - No Match
+  13. ASIN: B088GWCVVJ - Similarity: 40.00% - No Match
+  14. ASIN: B08KWN77LW - Similarity: 60.00% - No Match
+  15. ASIN: B01EK2F1PC - Similarity: 40.00% - No Match
+  16. ASIN: B08DK5D9J5 - Similarity: 40.00% - No Match
+  17. ASIN: B0949MJRHK - Similarity: 40.00% - No Match
+  18. ASIN: B0851C4YPC - Similarity: 30.00% - No Match
+  19. ASIN: B09GVHT2D3 - Similarity: 30.00% - No Match
+  20. ASIN: B0859CYSTM - Similarity: 30.00% - No Match
+
+User 9 Profile and Candidate Items:
+#### Comprehensive User Profile:
+
+Based on the provided reviews, we've created an insightful and detailed user profile.
+
+**Short-Term Interest:** Our analysis reveals that the user is currently interested in beauty-related products, specifically focusing on hair care and cosmetics. Recent reviews suggest an affinity for high-quality products with attractive packaging and effective results.
+
+**Long-Term Preference:** A closer examination of the user's past reviews highlights a consistent interest in aesthetics, particularly regarding personal grooming and self-care. This enduring preference transcends specific product types, indicating a broader appreciation for enhancing one's appearance.
+
+**User Profile Summary:** Our combined analysis shows that our target user prioritizes attractiveness, convenience, and ease-of-use when selecting products. With a strong inclination towards beauty-focused items, she seeks reliable solutions that deliver desired outcomes while maintaining comfort. Her preferred brands seem to offer premium quality, diverse options, and visually appealing designs, which resonate deeply within her aesthetic sensibilities.
+
+Candidate Items for Recommendation:
+
+Given the user's established preferences and current interests, here are five recommended product categories tailored to meet her needs:
+
+1. **Haircare**: High-end shampoos, conditioners, styling tools, and accessories catering to various hair textures and styles.
+2. **Cosmetics**: Advanced skincare sets, foundation palettes, eyeshadow compacts, lipsticks, and mascaras boasting innovative formulas and captivating presentations.
+3. **Nail Enthusiast**: Artistic nail polish collections, gel kits, acrylic powders, glitter enhancers, and DIY decorations designed for creative expression.
+4. **Personal Grooming**: Luxurious body washes, scented oils, fragrances, moisturizers, exfoliating scrubs, and pampering gift sets emphasizing relaxation and rejuvenation.
+5. **Party Supplies**: Vibrant face paint kits, temporary tattoos, glitters, sequins, and decorative props perfect for themed events, costume parties, or spontaneous celebrations.
+
+These recommendations aim to satisfy the user's penchant for aesthetically pleasing, functional, and premium-quality products across multiple realms, ultimately enriching her experience in the world of beauty and self-expression.
+
+User 9 Extracted Product Names:
+['Haircare', 'Cosmetics', 'Nail Enthusiast', 'Personal Grooming', 'Party Supplies']
+
+User 9:
+Test Product ASIN: B08CVTNQP1
+Recommended Products:
+  1. ASIN: B08BY9P4HR - Similarity: 40.00% - No Match
+  2. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  3. ASIN: B0BC273JJR - Similarity: 30.00% - No Match
+  4. ASIN: B088PYN4VM - Similarity: 40.00% - No Match
+  5. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  6. ASIN: B08JTNQFZY - Similarity: 60.00% - No Match
+  7. ASIN: B09C5NQSC5 - Similarity: 50.00% - No Match
+  8. ASIN: B08CZ5JZMZ - Similarity: 40.00% - No Match
+  9. ASIN: B088X2WPTX - Similarity: 40.00% - No Match
+  10. ASIN: B085NYYLQ8 - Similarity: 50.00% - No Match
+  11. ASIN: B07SLFWZKN - Similarity: 30.00% - No Match
+  12. ASIN: B08575Y9V3 - Similarity: 40.00% - No Match
+  13. ASIN: B08R3F946X - Similarity: 30.00% - No Match
+  14. ASIN: B083J1Y349 - Similarity: 40.00% - No Match
+  15. ASIN: B08YNR839W - Similarity: 40.00% - No Match
+  16. ASIN: B08XJWLLKQ - Similarity: 40.00% - No Match
+  17. ASIN: B08F4ZDVZQ - Similarity: 50.00% - No Match
+  18. ASIN: B086VK22QT - Similarity: 50.00% - No Match
+  19. ASIN: B08VJ7CZW3 - Similarity: 40.00% - No Match
+  20. ASIN: B08CVTNQP1 - Similarity: 100.00% - Match
+
+User 10 Profile and Candidate Items:
+Based on the provided reviews, we will analyze the user's purchasing behavior and identify patterns and trends that reveal their preferences.
+
+**Short-Term Interests**: From the latest products reviewed, we notice that the user has shown interest in:
+
+* Skincare and beauty products (Natural Solution Himalayan Pink Salt Body Scrub, Lilah b. – Bronzed Beauty Bronzer Duo)
+* Oral care and personal hygiene (CESTLV Bamboo Charcoal Toothbrush + Toothpaste Kit)
+
+These products indicate that the user prioritizes self-care and grooming, likely seeking gentle yet effective solutions for their skin and oral health.
+
+**Long-term Preferences**: By examining the user's past purchases and ratings, we find common threads among their favorite products:
+
+* High-quality ingredients (e.g., organic marula essential oil, pomegranate oil, cacao oil)
+* Effective performance (hydrating, nourishing, whitening)
+* Sustainability (recycled materials, eco-friendly practices)
+* Aesthetic appeal (light, fresh scents; buildable color; rich pigmentation)
+
+The user seems drawn to premium, natural-based products that deliver results while adhering to environmentally responsible standards.
+
+**User Profile Summary**: Based on our analysis, we synthesize the following profile:
+
+This user values quality, sustainability, and effectiveness in their skincare and beauty routines. They prioritize gentle, non-invasive methods and seek products containing natural ingredients. Their preferences lean towards premium, eco-conscious brands offering innovative formulas. Given their love for botanicals and commitment to environmental responsibility, we expect them to continue exploring sustainable lifestyle choices.
+
+**Candidate Item Categories:** Considering the user's preferences, we propose the following top-priority item categories:
+
+1. **Organic Skincare Sets**: Curated collections featuring certified organic ingredients, focusing on hydration, nourishment, and rejuvenation.
+2. **Eco-Friendly Personal Care Essentials**: Products utilizing recyclable materials, biodegradable components, and environmentally friendly manufacturing processes.
+3. **Nature-Inspired Fragrances**: Perfumes and colognes infused with natural essences, botanicals, and plant extracts, emphasizing subtle, fresh aromas.
+4. **Premium Makeup Brushes**: High-quality brushes crafted from sustainably sourced materials, designed for optimal performance and ease of use.
+5. **Customizable Wellness Supplements**: Formulations tailored to individual needs, incorporating natural ingredients, vitamins, and minerals for optimized wellness outcomes.
+
+By presenting these category options, we aim to cater to the user's evolving tastes, preferences, and values while providing a seamless shopping experience aligned with their brand loyalty and expectations.
+
+User 10 Extracted Product Names:
+['Organic Skincare Sets', 'Eco-Friendly Personal Care Essentials', 'Nature-Inspired Fragrances', 'Premium Makeup Brushes', 'Customizable Wellness Supplements']
+
+User 10:
+Test Product ASIN: B08G5YVHQP
+Recommended Products:
+  1. ASIN: B0949MJRHK - Similarity: 30.00% - No Match
+  2. ASIN: B082VKPJV5 - Similarity: 50.00% - No Match
+  3. ASIN: B08P5579KC - Similarity: 40.00% - No Match
+  4. ASIN: B0919R1CYT - Similarity: 30.00% - No Match
+  5. ASIN: B07TLMZL3T - Similarity: 20.00% - No Match
+  6. ASIN: B08BF4BKKM - Similarity: 30.00% - No Match
+  7. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+  8. ASIN: B085NYYLQ8 - Similarity: 60.00% - No Match
+  9. ASIN: B07YG4PRTN - Similarity: 40.00% - No Match
+  10. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+  11. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  12. ASIN: B08MC3ZLV4 - Similarity: 40.00% - No Match
+  13. ASIN: B09G3KBK7Y - Similarity: 40.00% - No Match
+  14. ASIN: B07KXM94BT - Similarity: 20.00% - No Match
+  15. ASIN: B0713VF172 - Similarity: 30.00% - No Match
+  16. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  17. ASIN: B09473GGM4 - Similarity: 30.00% - No Match
+  18. ASIN: B0B2L218H2 - Similarity: 40.00% - No Match
+  19. ASIN: B08B3SJNL5 - Similarity: 40.00% - No Match
+  20. ASIN: B07SLFWZKN - Similarity: 20.00% - No Match
+
+User 11 Profile and Candidate Items:
+Based on the provided user reviews, we will analyze each item separately and then combine them to form a comprehensive user profile.
+
+**Short-Term Interests:** Based on the latest reviews, our attention is drawn to:
+
+* Fragrances (Shakira Perfumes-Dance for Women)
+* Skincare products (Embyrolisse Eau de Beaute Rosamelis Face Toner, Moisturizing Face Wash, and Spanature Green Tea Hand & Body Lotion)
+* Personal care essentials (Puretize Hand Sanitizer)
+
+These current interests suggest the user values grooming, self-care, and hygiene.
+
+**Long-term Preferences:** By analyzing the user's complete review history, we identify recurring patterns:
+
+* Preference for natural ingredients (e.g., essential oils, shea coconut butter, botanical extracts)
+* Interest in skincare and beauty-related products
+* Appreciation for unique fragrances and scents
+* Value placed on convenience, portability, and ease-of-use
+
+These deep-seated preferences indicate the user enjoys exploring new products, trying different scents, and prioritizes functional features.
+
+**User Profile Summary:** Combining short-term interest and long-term preference insights, we can summarize the user's profile as follows:
+
+"This user is a health-conscious individual who appreciates high-quality personal care products infused with natural ingredients. They enjoy discovering new fragrances and scents, often seeking products that offer a combination of functionality, portability, and sensory experiences. Their primary focus lies in maintaining healthy-looking skin while valuing convenience and practicality."
+
+Now, let us propose five candidate items that cater to the user's interests and preferences:
+
+Candidate Item 1: **L'Occitane en Provence Lavande Shower Oil**, a luxurious shower oil rich in lavender extract and gentle enough for daily use.
+
+Candidate Item 2: **Kiehl's Calendula Foaming Face Wash**, a plant-based face wash featuring calendula petals, providing gentle cleansing without stripping the skin of its natural oils.
+
+Candidate Item 3: **Jo Malone London Grapefruit Cologne**, a refreshing cologne boasting citrus notes and subtle sweetness, appealing to the user's affinity for unique fragrances.
+
+Candidate Item 4: **Dr. Hauschka Rose Day Cream**, a nourishing cream incorporating Rosa damascena flower extract, offering hydration and anti-inflammatory benefits suitable for normal to mature skin types.
+
+Candidate Item 5: **Maison Francis Kurkdjian Baccarat Rouge 540 Eau de Parfum**, an exclusive fragrance composed of bergamot, saffron, and vanilla notes, catering to the user's appreciation for premium perfumes.
+
+By recommending these products, we aim to satisfy the user's cravings for innovative, natural, and indulgent experiences within the realm of personal care and aromatics.
+
+User 11 Profile and Candidate Items:
+**Short-Term Interests:** Based on the latest products reviewed by the user, we can infer that she tends to favor:
+
+* Skincare and beauty products, particularly toners, face washes, and moisturizers.
+* Products with natural ingredients, fragrances, and gentle formulas suitable for sensitive skin.
+
+These short-term interests suggest that the user values skincare routines, enjoys exploring different scents, and prioritizes comfort when choosing personal care products.
+
+**Long-term Preferences:** By analyzing the user's entire reviewing history, we find that she often favors:
+
+* Fragrant and luxurious scents, such as rose and orange notes.
+* High-quality, premium brand names, evident in her interest in Shakira perfumes and other branded products.
+* Products with moisturizing properties, emphasizing hydration and nourishment for her skin.
+* Convenience and portability, demonstrated through her appreciation for travel-sized products and easy-to-use packaging.
+
+Consistent themes emerging from her long-term preferences include:
+
+* An affinity for pleasant aromas and sensory experiences.
+* Prioritization of quality and prestige brands.
+* Emphasis on skin health, wellness, and self-care practices.
+
+**User Profile Summary:** Our analysis reveals that the user is drawn towards skincare and beauty products that cater to her specific preferences. She craves high-end, luxurious scents, gentle formulations, and convenient packaging options. As an individual who appreciates quality and indulges in pampering herself regularly, she likely seeks to maintain healthy, radiant-looking skin while enjoying the sensory experience of using her favorite products.
+
+**Candidate Items:** Considering our user's preferences and interests, here are five suggested candidate item categories that might appeal to her:
+
+1. **Luxurious Shower Gels**: Products featuring rich, complex fragrances and moisturizing properties could captivate her attention.
+2. **Natural, Artisanal Candles**: Scented candles made with essential oils, herbs, and botanical extracts could satisfy her desire for unique, soothing aromas.
+3. **High-Quality Haircare Sets**: Premium hair treatment kits containing argan oil, keratin, and antioxidants might resonate with her concern for maintaining healthy locks.
+4. **Customizable Fragrance Collections**: Personalized fragrance sets allowing users to blend and create bespoke scents could intrigue her sense of adventure and love for exploration.
+5. **Gourmet Bath Soaks**: Spacious bath soak collections infused with herbal remedies, essential oils, and mineral-rich compounds could delight her senses and soothe her skin.
+
+By presenting these candidate items, we aim to introduce new opportunities for exploration within her existing preferences, encouraging further engagement with products that share similarities with her evolving interests.
+
+User 11 Extracted Product Names:
+['Luxurious Shower Gels', 'Natural, Artisanal Candles', 'High-Quality Haircare Sets', 'Customizable Fragrance Collections', 'Gourmet Bath Soaks']
+
+User 11:
+Test Product ASIN: B09G3KBK7Y
+Recommended Products:
+  1. ASIN: B08YJV9YL2 - Similarity: 40.00% - No Match
+  2. ASIN: B08P5579KC - Similarity: 40.00% - No Match
+  3. ASIN: B07JGD2T2J - Similarity: 30.00% - No Match
+  4. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+  5. ASIN: B085NYYLQ8 - Similarity: 30.00% - No Match
+  6. ASIN: B0844X21MJ - Similarity: 20.00% - No Match
+  7. ASIN: B095CG2ZV1 - Similarity: 40.00% - No Match
+  8. ASIN: B08XJWLLKQ - Similarity: 30.00% - No Match
+  9. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  10. ASIN: B08MC3ZLV4 - Similarity: 30.00% - No Match
+  11. ASIN: B08KGVBW41 - Similarity: 40.00% - No Match
+  12. ASIN: B09473GGM4 - Similarity: 40.00% - No Match
+  13. ASIN: B088PYN4VM - Similarity: 30.00% - No Match
+  14. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  15. ASIN: B082VKPJV5 - Similarity: 30.00% - No Match
+  16. ASIN: B01M24DUXH - Similarity: 20.00% - No Match
+  17. ASIN: B0B2L218H2 - Similarity: 30.00% - No Match
+  18. ASIN: B08BY9P4HR - Similarity: 40.00% - No Match
+  19. ASIN: B07SLFWZKN - Similarity: 30.00% - No Match
+  20. ASIN: B08LPJT4MT - Similarity: 20.00% - No Match
+
+User 12 Profile and Candidate Items:
+Here is the Comprehensive User Profile:
+
+**Short-Term Interest:** Based on the user's recent reviews, we can see that she/he is interested in skincare products, particularly creams, serums, and facial masks that focus on hydrating and nourishing her/his skin.
+
+**Long-term Preference:** Our analysis reveals that our user tends to favor products with natural ingredients, organic options, and unique scents. She/he also appears to prioritize high-quality formulations, effective performance, and reasonable prices. Furthermore, she/he shows appreciation for aesthetically pleasing packaging, convenience features, and travel-friendly formats.
+
+**Profile Summary:** As a skincare enthusiast, [user] seeks products that deliver results while catering to her/his love for nature-inspired ingredients, distinctive aromas, and innovative textures. With a penchant for premium quality and affordability, [she/he] often gravitates towards eco-conscious brands offering luxurious, portable treatments that soothe and rejuvenate her/his skin.
+
+Candidate Items:
+
+1. **Natural Skincare Sets**: A curated collection featuring botanical-rich cleansers, tonics, and moisturizers designed for normal-to-dry skin types.
+2. **Organic Face Masks**: A range of sheet masks infused with certified organic extracts, plant-based essences, and antioxidants for radiant, glowing complexions.
+3. **Coconut-Based Products**: A selection of coconut-oil enriched lotions, creams, and scrubs providing intense hydration, nourishment, and protection for parched skin areas.
+4. **Soothing Serenity Kits**: An assortment of calming, sleep-promoting essentials including relaxing essential oils, herbal teas, and plush
+
+User 12 Extracted Product Names:
+['Natural Skincare Sets', 'Organic Face Masks', 'Coconut-Based Products', 'Soothing Serenity Kits']
+
+User 12:
+Test Product ASIN: B07L9H27SH
+Recommended Products:
+  1. ASIN: B0949MJRHK - Similarity: 40.00% - No Match
+  2. ASIN: B089D16BWJ - Similarity: 30.00% - No Match
+  3. ASIN: B085NYYLQ8 - Similarity: 30.00% - No Match
+  4. ASIN: B08P5579KC - Similarity: 40.00% - No Match
+  5. ASIN: B08BF4BKKM - Similarity: 20.00% - No Match
+  6. ASIN: B07T4LKC4D - Similarity: 40.00% - No Match
+  7. ASIN: B07ZS3DKL5 - Similarity: 40.00% - No Match
+  8. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+  9. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  10. ASIN: B083B67373 - Similarity: 40.00% - No Match
+  11. ASIN: B082VKPJV5 - Similarity: 30.00% - No Match
+  12. ASIN: B08MC3ZLV4 - Similarity: 30.00% - No Match
+  13. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  14. ASIN: B08GJJ5RV9 - Similarity: 30.00% - No Match
+  15. ASIN: B096YHL82K - Similarity: 50.00% - No Match
+  16. ASIN: B09C5NQSC5 - Similarity: 40.00% - No Match
+  17. ASIN: B07JGD2T2J - Similarity: 40.00% - No Match
+  18. ASIN: B08GYJY8F2 - Similarity: 30.00% - No Match
+  19. ASIN: B07TLMZL3T - Similarity: 40.00% - No Match
+  20. ASIN: B0912BNP4J - Similarity: 40.00% - No Match
+
+User 13 Profile and Candidate Items:
+Based on the provided reviews, we will analyze them to identify patterns and trends.
+
+**Short-Term Interest Analysis:** Based on the latest two reviews (#14 and #16), our model detects an interest in skincare and grooming products. Specifically:
+
+* Review #14 mentions the effectiveness of the product in improving skin texture and tone, suggesting a desire for glowing and healthy-looking skin.
+* Review #16 highlights the benefits of using a specific moisturizer, implying a focus on hydration and nourishment.
+
+**Long-Term Preference Analysis:** After examining the complete review history, we identified recurring themes and preferences:
+
+* A liking for premium-priced, high-quality products with unique features and benefits.
+* An inclination towards gentle, soothing, and effective products for various aspects of personal care (skincare, oral hygiene, etc.).
+* Appreciation for innovative designs, packaging, and scents.
+* Willingness to invest in products offering exceptional performance and satisfying experiences.
+
+**Profile Summary:** Our comprehensive analysis yields the following profile summary:
+
+Our subject appears to be a discerning individual who values high-end products with distinct characteristics. They prioritize comfort, gentleness, and efficacy across multiple areas of personal care. With a keen eye for aesthetics, they appreciate clever design and pleasant fragrances. Their willingness to spend more on superior products suggests a commitment to self-care and indulgence. We anticipate they may explore new products within similar niches, such as advanced skincare treatments, rejuvenating haircare solutions, or cutting-edge oral health innovations.
+
+**Candidate Items:** Considering the refined profile above, here are five candidate item recommendations that cater to our subject's preferences:
+
+1. **Drunk Elephant Protini Polypeptide Cream**: A luxury facial cream boasting a rich, whipped texture, delivering intense hydration and firming properties.
+2. **GHD Heat Protect Spray**: A protective spray designed specifically for heat-styling tools, providing thermal protection while adding shine and manageability to hair.
+3. **Kiehl's Calendula Foaming Face Wash**: A gentle, sulfate-free cleanser infused with calendula oil, promising deep cleansing without stripping the skin of its natural oils.
+4. **Sunday Riley Power Couple**: A dual-action serum combining alpha-hydroxy acids with peptides to address fine lines, wrinkles, and discoloration.
+5. **L'Occitane Shea Butter Extra Gentle Soap-Free Shower Oil**: A luxurious shower experience featuring shea butter, camellia oil, and lavender extracts, guaranteeing gentle cleansing and nourished skin.
+
+These product suggestions aim to satisfy our subject's cravings for premium, innovative, and effective offerings, while catering to their appreciation for gentle formulas, pleasing textures, and captivating aromas.
+
+User 13 Extracted Product Names:
+['Drunk Elephant Protini Polypeptide Cream', 'GHD Heat Protect Spray', "Kiehl's Calendula Foaming Face Wash", 'Sunday Riley Power Couple', "L'Occitane Shea Butter Extra Gentle Soap-Free Shower Oil"]
+
+User 13:
+Test Product ASIN: B0851QJPZY
+Recommended Products:
+  1. ASIN: B07W1WJZFG - Similarity: 50.00% - No Match
+  2. ASIN: B0BG6WX4DH - Similarity: 20.00% - No Match
+  3. ASIN: B07NPWK167 - Similarity: 30.00% - No Match
+  4. ASIN: B08JTNQFZY - Similarity: 60.00% - No Match
+  5. ASIN: B07FP2C8N8 - Similarity: 30.00% - No Match
+  6. ASIN: B0B4MR9BXN - Similarity: 20.00% - No Match
+  7. ASIN: B08PLFZB89 - Similarity: 50.00% - No Match
+  8. ASIN: B07YS9W97B - Similarity: 30.00% - No Match
+  9. ASIN: B09GVHT2D3 - Similarity: 20.00% - No Match
+  10. ASIN: B07YNDWRCB - Similarity: 30.00% - No Match
+  11. ASIN: B08WF29DM9 - Similarity: 30.00% - No Match
+  12. ASIN: B07THLR7RR - Similarity: 20.00% - No Match
+  13. ASIN: B07MZT83KK - Similarity: 30.00% - No Match
+  14. ASIN: B08BY9P4HR - Similarity: 40.00% - No Match
+  15. ASIN: B01M24DUXH - Similarity: 30.00% - No Match
+  16. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  17. ASIN: B0842BXM5M - Similarity: 40.00% - No Match
+  18. ASIN: B08TR1MKHD - Similarity: 40.00% - No Match
+  19. ASIN: B085NYYLQ8 - Similarity: 50.00% - No Match
+  20. ASIN: B08KGVBW41 - Similarity: 40.00% - No Match
+
+User 14 Profile and Candidate Items:
+Based on the provided user reviews, we can create a comprehensive user profile summarizing the user's short-term interests and long-term preferences.
+
+**Short-Term Interest:** The user appears to be exploring various beauty and personal care products, including skincare, haircare, and cosmetics. Their recent purchases suggest an interest in trying out different products and finding the right fit for their needs.
+
+**Long-Term Preference:** An analysis of the user's entire review history reveals a few key trends:
+
+* They tend to favor gentle, non-greasy products that cater to combination skin types.
+* There may be a preference for Korean/Japanese brands, given the mention of SAMYANG AboutMe cleansing balm and Bioré j-beauty remover.
+* A liking for natural ingredients, scents, and materials, such as rose-scented products and silky/satin textures.
+* Possibly a tendency towards being picky and wanting high-quality products that meet specific standards.
+
+**User Profile Summary**: This user seems to prioritize finding effective yet gentle products that suit their unique skin type and preferences. With a focus on natural ingredients and subtle fragrances, they appear to value quality over convenience. As they continue exploring new products, they likely seek assurance that each item meets their exacting standards before committing to a purchase.
+
+Now, let us generate five candidate items that align with this user's profile and interests:
+
+1. **Missha Time Revolution Night Repair Cream**: Given the user's fondness for Korean/Japanese brands, this popular night cream could appeal to their desire for gentle, nourishing skincare.
+2. **Drunk Elephant Protini Polypeptide Cream**: This rich moisturizer, featuring peptides and antioxidants, caters to combination skin types while offering a luxurious texture reminiscent of the user's preferred silky/satin materials.
+3. **Sheet masks**: In line with the user's interest in K-beauty/makeup removers, sheet masks offer a convenient way to address specific skin concerns without overwhelming their senses.
+4. **Hair serums/oils infused with natural extracts**: Building upon their appreciation for scented products, these lightweight hair treatments would allow users to indulge in aromatherapy-like experiences within their daily routine.
+5. **Kosas Revealer Concealer**: For a makeup-related suggestion, Kosas' concealer promises buildable coverage, gentle formula, and vegan/cruelty-free certification – aligning with the user's expectations for high-quality, cruelty-free products.
+
+These recommendations should resonate with the user's existing preferences and help guide them toward satisfying discoveries in their ongoing exploration of beauty and self-care products.
+
+User 14 Extracted Product Names:
+['Missha Time Revolution Night Repair Cream', 'Drunk Elephant Protini Polypeptide Cream', 'Sheet masks', 'Hair serums/oils infused with natural extracts', 'Kosas Revealer Concealer']
+
+User 14:
+Test Product ASIN: B088PYN4VM
+Recommended Products:
+  1. ASIN: B07W397QG4 - Similarity: 30.00% - No Match
+  2. ASIN: B07ZS3DKL5 - Similarity: 20.00% - No Match
+  3. ASIN: B08575Y9V3 - Similarity: 50.00% - No Match
+  4. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  5. ASIN: B08K2WH8LK - Similarity: 40.00% - No Match
+  6. ASIN: B08QVJ4NVD - Similarity: 50.00% - No Match
+  7. ASIN: B07W1WJZFG - Similarity: 20.00% - No Match
+  8. ASIN: B089D16BWJ - Similarity: 30.00% - No Match
+  9. ASIN: B09GVHT2D3 - Similarity: 30.00% - No Match
+  10. ASIN: B08K2V6WGH - Similarity: 40.00% - No Match
+  11. ASIN: B08WF29DM9 - Similarity: 40.00% - No Match
+  12. ASIN: B0B4MR9BXN - Similarity: 40.00% - No Match
+  13. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  14. ASIN: B07SLFWZKN - Similarity: 30.00% - No Match
+  15. ASIN: B0855L611L - Similarity: 30.00% - No Match
+  16. ASIN: B08C37KWRR - Similarity: 30.00% - No Match
+  17. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  18. ASIN: B08FBHNBP1 - Similarity: 40.00% - No Match
+  19. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  20. ASIN: B08DXCVRNY - Similarity: 40.00% - No Match
+
+User 15 Profile and Candidate Items:
+Based on the provided user reviews, here is the generated user profile:
+
+**Short-Term Interests:** The user has recently shown interest in self-care products related to skincare and personal grooming. Specifically, they've reviewed products such as body scrubs, facial tapes, bath pillows, aloe vera gel, nail files, and hyaluronic acid masks.
+
+These reviews suggest an emphasis on gentle, nourishing, and effective solutions for various aspects of beauty care. The user seems concerned with finding high-quality, reliable products that meet specific needs, whether it be exfoliation, relaxation, hydration, or protection.
+
+**Long-Term Preferences:** Upon analyzing the user's entire review history, we observe recurring patterns and persistent themes. Key takeaways include:
+
+* An inclination towards organic, natural ingredients and essential oils, evident in reviews like "Natural Solution" and "Aloe Vera Gel".
+* A preference for gentle, non-invasive treatments and methods, demonstrated through reviews like "Face Lift Tapes" being deemed ineffective and "Nail Files" being used primarily for minor adjustments.
+* A focus on skincare and haircare routines, reflected in multiple reviews featuring products catering to those areas.
+* A desire for convenience, ease-of-use, and portability, seen in comments praising products' performance during travel ("Charyeah Bath Pillow") or everyday life ("WIS Hyaluronic Acid Facial Masks").
+
+**User Profile Summary:** Our analysis suggests that this user prioritizes health-conscious, eco-friendly approaches to beauty maintenance. They're drawn to products incorporating natural elements, emphasizing gentleness, effectiveness, and practicality. Their search for optimal results drives them to explore different options, seeking tailored solutions for distinct concerns. As they continue to navigate the world of self-care, they'll likely remain open to discovering innovative ways to address their evolving desires.
+
+**Candidate Item Categories:**
+
+1. **Organic Skincare Sets**: Products combining natural extracts, plant-based essences, and pure ingredients for face and body care.
+Example: Dr. Hauschka Rose Day Cream or Andalou Naturals Fruit Stem Cell Revitalizing Mist
+2. **Gentle Grooming Essentials**: Range of tools and accessories designed for effortless grooming experiences, focusing on comfort and precision.
+Example: Kent Brushes Classic Brush or Tweezerman Slant Tip Tweezer
+3. **Relaxation and Self-Care Bundles**: Curated collections offering soothing, rejuvenating treatments for stress relief, pampering sessions, and mindfulness practices.
+Example: Rituals Sakura Eau de Toilette + Shower Gel Set or Voluspa Miniature Luxury Candle Collection
+4. **Essential Oils and Blends**: High-quality oil blends crafted for aromatherapy, meditation, or therapeutic purposes, often derived from nature-inspired sources.
+Example: DoTERRA Balance Blend or Young Living Lemon Essential Oil
+5. **Innovative Beauty Devices**: Cutting-edge devices utilizing advanced technologies, such as LED lights, sonic waves, or heat therapy, to enhance daily skincare routines.
+Example: Neutrogena Rapid Wrinkle Repair Serum or Foreo Luna 3 Cleanser
+
+By considering these categories, our algorithm aims to present recommendations aligned with the user's refined preferences, providing a harmonious blend of innovative products and classic favorites within each category. The goal is to maintain consistency between the proposed suggestions and the original user reviews, reflecting the ongoing evolution of their interests and requirements.
+
+User 15 Extracted Product Names:
+['Organic Skincare Sets', 'Gentle Grooming Essentials', 'Relaxation and Self-Care Bundles', 'Essential Oils and Blends', 'Innovative Beauty Devices']
+
+User 15:
+Test Product ASIN: B09G22586Y
+Recommended Products:
+  1. ASIN: B0949MJRHK - Similarity: 30.00% - No Match
+  2. ASIN: B07JGD2T2J - Similarity: 50.00% - No Match
+  3. ASIN: B08P5579KC - Similarity: 30.00% - No Match
+  4. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  5. ASIN: B09C5NQSC5 - Similarity: 40.00% - No Match
+  6. ASIN: B08BF4BKKM - Similarity: 30.00% - No Match
+  7. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  8. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+  9. ASIN: B07TLMZL3T - Similarity: 20.00% - No Match
+  10. ASIN: B08JTNQFZY - Similarity: 40.00% - No Match
+  11. ASIN: B08S1LWF9V - Similarity: 30.00% - No Match
+  12. ASIN: B08MC3ZLV4 - Similarity: 30.00% - No Match
+  13. ASIN: B01M24DUXH - Similarity: 30.00% - No Match
+  14. ASIN: B0713VF172 - Similarity: 30.00% - No Match
+  15. ASIN: B08575Y9V3 - Similarity: 40.00% - No Match
+  16. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  17. ASIN: B08BY9P4HR - Similarity: 40.00% - No Match
+  18. ASIN: B07SLFWZKN - Similarity: 20.00% - No Match
+  19. ASIN: B092M5K59T - Similarity: 50.00% - No Match
+  20. ASIN: B08GJJ5RV9 - Similarity: 40.00% - No Match
+
+User 16 Profile and Candidate Items:
+Based on the provided user reviews, we can extract information about the user's preferences and interests.
+
+**Short-Term Interests:** From the latest products reviewed, we observe the following patterns:
+
+* The user appears interested in personal grooming and self-care products, such as manicure and pedicure tools, skincare creams, and makeup-related accessories.
+* They tend to favor high-quality materials, durability, and effective performance in their products.
+* The user seems drawn to unique features, such as the inclusion of additional components (e.g., catcher for easy cleanup), and innovative designs.
+
+**Long-term Preferences:** By analyzing the user's complete review history, we identify some underlying trends:
+
+* The user consistently expresses interest in natural and organic products, particularly those related to skincare and beauty.
+* They appreciate simplicity and ease of use in their products, often seeking solutions that cater to specific needs or concerns (e.g., dry skin).
+* The user demonstrates an appreciation for craftsmanship, quality materials, and attention to detail in their purchases.
+
+**User Profile Summary**: Based on our analysis, here is a summary of the user's profile:
+
+"This individual is likely someone who values self-care and personal grooming. They prioritize high-quality, durable products that effectively address specific needs or concerns. Their preferences lean towards natural and organic options, with a focus on skincare and beauty. Within this realm, they seek simple, intuitive products that showcase excellent craftsmanship. As a result, our recommendations will aim to satisfy their cravings for premium, well-crafted goods."
+
+Here are five **Candidate Item Categories** aligned with the user's preferences and interests:
+
+1. **Natural Skincare Sets**: A curated selection of natural, organic skincare sets containing high-quality ingredients, gentle formulations, and customizable routines tailored to meet specific skin types or concerns.
+2. **Premium Makeup Brushes**: Handcrafted, vegan-friendly makeup brushes featuring superior material blends, ergonomic handles, and precision engineering to ensure flawless application and blending.
+3. **Organic Haircare Essentials**: An assortment of nourishing hair serums, shampoos, conditioners, and masks made from pure, plant-based extracts, essential oils, and soothing botanicals designed to restore vitality and health to locks.
+4. **Luxurious Bath & Body Care**: High-end bath bombs, salts, scrubs, and body lotions infused with luxurious fragrances, rich emollients, and restorative properties to pamper and rejuvenate the senses.
+5. **Artisanal Fragrance Collections**: Exclusive fragrance collections crafted by expert perfumers, featuring rare essences, bespoke blends, and exceptional packaging inspired by ancient traditions and modern innovation.
+
+By recommending these categories, we believe we've successfully captured the essence of the user's preferences and interests, providing them with a refined shopping experience that caters to their unique tastes and requirements.
+
+User 16 Extracted Product Names:
+['Natural Skincare Sets', 'Premium Makeup Brushes', 'Organic Haircare Essentials', 'Luxurious Bath & Body Care', 'Artisanal Fragrance Collections']
+
+User 16:
+Test Product ASIN: B09G22586Y
+Recommended Products:
+  1. ASIN: B0949MJRHK - Similarity: 30.00% - No Match
+  2. ASIN: B0919R1CYT - Similarity: 40.00% - No Match
+  3. ASIN: B086XH7BWW - Similarity: 40.00% - No Match
+  4. ASIN: B08P5579KC - Similarity: 30.00% - No Match
+  5. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  6. ASIN: B08BF4BKKM - Similarity: 30.00% - No Match
+  7. ASIN: B07YG4PRTN - Similarity: 30.00% - No Match
+  8. ASIN: B08XJWLLKQ - Similarity: 30.00% - No Match
+  9. ASIN: B08MC3ZLV4 - Similarity: 30.00% - No Match
+  10. ASIN: B0B2L218H2 - Similarity: 50.00% - No Match
+  11. ASIN: B08S1LWF9V - Similarity: 30.00% - No Match
+  12. ASIN: B07KXM94BT - Similarity: 30.00% - No Match
+  13. ASIN: B0941YDPSW - Similarity: 40.00% - No Match
+  14. ASIN: B07JGD2T2J - Similarity: 50.00% - No Match
+  15. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+  16. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  17. ASIN: B08B3SJNL5 - Similarity: 30.00% - No Match
+  18. ASIN: B083PXJBVY - Similarity: 40.00% - No Match
+  19. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  20. ASIN: B09G3KBK7Y - Similarity: 50.00% - No Match
+
+User 17 Profile and Candidate Items:
+**Short-Term Interest Analysis:** Based on the latest reviews, we notice that the user tends towards hydrating skincare products containing natural extracts like watermelon fruit, blueberry extract, cucumber, and sedum extract. They prefer lightweight, non-greasy textures with pleasant scents.
+
+**Long-Term Preference Analysis:** By examining the user's historical reviews, we identify recurring patterns indicating a strong affinity for:
+
+* Moisturizing creams and serums with anti-aging properties
+* Products rich in antioxidants, peptides, and hyaluronic acids
+* Gentle, hypoallergenic formulas suitable for sensitive skin
+* Natural ingredients and essential oils
+
+These preferences suggest the user values effective, gentle, and sustainable skincare practices.
+
+**User Profile Summary:** Our analysis reveals a sophisticated individual who prioritizes hydration, nourishment, and protection for their skin. They seek products that combine innovative technology with natural ingredients, providing optimal benefits while minimizing irritation. Their preferred brands seem to focus on scientifically-backed formulations, eco-friendly packaging, and cruelty-free practices.
+
+**Candidate Item Generation:** Considering the user's preferences and interests, here are five category suggestions:
+
+1. **Moisturizers**: Hydrating facial creams, serums, and essences infused with natural extracts and antioxidants.
+2. **Antioxidant-Rich Formulations**: Products containing potent antioxidant blends, peptides, and hyaluronic acids for enhanced skin health.
+3. **Gentle, Fragrance-Free Options**: Hypoallergenic, fragrance-free skincare products catering to sensitive skin types.
+4. **Natural Ingredient-Based Products**: Cosmetics featuring plant-based extracts, essential oils, and botanicals for sustainable skincare.
+5. **Advanced Skincare Tools**: Innovative devices incorporating laser technology, sonic waves, or microneedling for enhanced skin penetration and rejuvenation.
+
+By exploring these categories, our user can discover new products aligned with their unique preferences, further enhancing their ongoing quest for healthy, radiant-looking skin.
+
+User 17 Extracted Product Names:
+['Moisturizers', 'Antioxidant-Rich Formulations', 'Gentle, Fragrance-Free Options', 'Natural Ingredient-Based Products', 'Advanced Skincare Tools']
+
+User 17:
+Test Product ASIN: B083PXJBVY
+Recommended Products:
+  1. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  2. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  3. ASIN: B086VRRD99 - Similarity: 40.00% - No Match
+  4. ASIN: B07ZS3DKL5 - Similarity: 30.00% - No Match
+  5. ASIN: B09C5NQSC5 - Similarity: 20.00% - No Match
+  6. ASIN: B08GJJ5RV9 - Similarity: 50.00% - No Match
+  7. ASIN: B082VKPJV5 - Similarity: 60.00% - No Match
+  8. ASIN: B0941YDPSW - Similarity: 30.00% - No Match
+  9. ASIN: B096YHL82K - Similarity: 30.00% - No Match
+  10. ASIN: B07HVRP37G - Similarity: 30.00% - No Match
+  11. ASIN: B08LPGZMQK - Similarity: 40.00% - No Match
+  12. ASIN: B0713VF172 - Similarity: 40.00% - No Match
+  13. ASIN: B07ZQRX7FX - Similarity: 30.00% - No Match
+  14. ASIN: B084ZHP45Y - Similarity: 50.00% - No Match
+  15. ASIN: B08BF4BKKM - Similarity: 40.00% - No Match
+  16. ASIN: B01M24DUXH - Similarity: 30.00% - No Match
+  17. ASIN: B07W1WJZFG - Similarity: 30.00% - No Match
+  18. ASIN: B087D7MVHB - Similarity: 40.00% - No Match
+  19. ASIN: B09G3KBK7Y - Similarity: 50.00% - No Match
+  20. ASIN: B08RYN11N9 - Similarity: 40.00% - No Match
+
+User 18 Profile and Candidate Items:
+Here is the comprehensive user profile:
+
+**Short-Term Interests:** 
+The user recently reviewed various skincare products, including toners, moisturizers, and mascaras. They seem interested in trying different products and exploring new brands.
+
+**Long-Term Preferences:** 
+Based on the user's extensive review history, we can identify several recurring themes and preferences:
+
+* **Skin care**: The user consistently shows interest in skincare products, particularly toners, creams, and serums.
+* **Natural ingredients**: Many of the products they've reviewed contain natural ingredients such as coconut oil, shea butter, and baking soda.
+* **Cruelty-free and sustainable practices**: The user appears drawn to products made without animal testing and those promoting environmental sustainability.
+* **High-quality packaging**: They appreciate premium materials and innovative designs, evident in their positive comments about refillable containers and ergonomic handles.
+
+**User Profile Summary:** 
+This user prioritizes discovering unique skincare experiences through trial-and-error exploration. They value cruelty-free, eco-friendly, and high-quality products with natural ingredients. Their search for effective solutions often involves considering multiple factors, such as texture, fragrance, and functionality. To satisfy this user's cravings, recommendations should focus on introducing novel formulas, highlighting environmentally responsible manufacturing processes, and showcasing stylish, functional packaging.
+
+Now, here are five candidate item suggestions aligned with the user's profile:
+
+1. **Drunk Elephant Protini Polypeptide Cream**: This luxurious cream features peptides, antioxidants, and plant extracts to promote youthful-looking skin. Its commitment to using only cruelty-free and vegan-friendly ingredients resonates with our user.
+2. **Rahua Hydrating Facial Mist**: As a mist-based toner, Rahua offers a refreshing blend of organic botanicals and essential oils to hydrate and balance the skin. This product's emphasis on sustainability and eco-friendliness appeals to the user's values.
+3. **Kjaer Weik Haircare Scalp Serum**: With its soothing blend of herbal extracts and argan oil, Kjaer Weik's scalp serum promises to calm irritated scalps and nourish hair roots. This product's focus on natural ingredients and minimalist packaging might intrigue our user.
+4. **Milk Makeup Lip Salve**: This lip balm boasts a rich blend of beeswax, coconut oil, and honey to soothe dry lips. Milk Makeup prides itself on using only gentle, non-toxic ingredients, which aligns with our user's preference for natural products.
+5. **Votary Rose Geranium Cleansing Oil**: Votary's cleansing oil harnesses rose geranium extract and sweet almond oil to gently purify and moisturize the skin. This product's attention to detail regarding ingredient sourcing, minimal packaging, and commitment to sustainability will likely appeal to our user's refined sensibilities.
+
+These recommended products cater to the user's affinity for skincare innovation, natural ingredients, and eco-conscious practices, increasing the likelihood of satisfying their diverse needs and interests.
+
+User 18 Extracted Product Names:
+['Drunk Elephant Protini Polypeptide Cream', 'Rahua Hydrating Facial Mist', 'Kjaer Weik Haircare Scalp Serum', 'Milk Makeup Lip Salve', 'Votary Rose Geranium Cleansing Oil']
+
+User 18:
+Test Product ASIN: B09G22586Y
+Recommended Products:
+  1. ASIN: B07ZS3DKL5 - Similarity: 30.00% - No Match
+  2. ASIN: B084WP4XS8 - Similarity: 30.00% - No Match
+  3. ASIN: B083PXJBVY - Similarity: 40.00% - No Match
+  4. ASIN: B07Z3NRMBS - Similarity: 20.00% - No Match
+  5. ASIN: B086VRRD99 - Similarity: 40.00% - No Match
+  6. ASIN: B07W1WJZFG - Similarity: 30.00% - No Match
+  7. ASIN: B08DXZ5VXB - Similarity: 30.00% - No Match
+  8. ASIN: B08XJWLLKQ - Similarity: 30.00% - No Match
+  9. ASIN: B09SH1FD9S - Similarity: 30.00% - No Match
+  10. ASIN: B08DXLRTSB - Similarity: 30.00% - No Match
+  11. ASIN: B0B4MR9BXN - Similarity: 30.00% - No Match
+  12. ASIN: B081MQD52C - Similarity: 30.00% - No Match
+  13. ASIN: B086XH7BWW - Similarity: 40.00% - No Match
+  14. ASIN: B08RQZ3F3L - Similarity: 30.00% - No Match
+  15. ASIN: B08WCQWP3T - Similarity: 30.00% - No Match
+  16. ASIN: B08WF29DM9 - Similarity: 30.00% - No Match
+  17. ASIN: B083TLNBJJ - Similarity: 30.00% - No Match
+  18. ASIN: B07VGBBNTH - Similarity: 30.00% - No Match
+  19. ASIN: B08G5YVHQP - Similarity: 50.00% - No Match
+  20. ASIN: B0914JBBTV - Similarity: 30.00% - No Match
+
+User 19 Profile and Candidate Items:
+**Short-Term Interests:**
+Based on the provided reviews, we can infer that the user has recently been interested in:
+
+* Natural and organic skincare products
+* Products with low environmental impact (EWG ratings)
+* Fun and playful hair accessories
+* Beauty-related wigs
+
+These interests seem to revolve around self-care, personal style, and possibly a desire for sustainability.
+
+**Long-term Preferences:**
+
+An analysis of the user's entire review history reveals some underlying preferences, such as:
+
+* Emphasis on natural ingredients and sustainable practices
+* Concern for chemical exposure and its effects on health
+* Interest in unique, handmade, or artisanal products
+* Appreciation for quality materials and craftsmanship
+
+The user seems to prioritize functionality, durability, and aesthetics when selecting products.
+
+**User Profile Summary:**
+Our user appears to be someone who values holistic wellness, sustainability, and eco-friendliness in their daily life. They're drawn to products that cater to these concerns while offering innovative solutions. With a strong emphasis on natural ingredients, reduced chemical use, and high-quality materials, our user seeks out brands that share similar values. When exploring new products, they appreciate transparency regarding ingredients and production processes.
+
+In terms of specific recommendations, here are five candidate items that align with the user's profile:
+
+1. **Acure Organics Hydrating Facial Cream**: A moisturizing facial cream made with argan stem cells, burdock root, and green tea extract.
+2. **Lush Bath Bombs**: Artisanal bath bombs crafted with natural oils, essential oils, and biodegradable packaging options.
+3. **Etsy Handmade Hair Ties**: Unique, small-batch hair ties created with sustainable materials like repurposed fabric scraps or recycled yarn.
+4. **Curology Customized Skincare Routine**: Personalized skincare sets tailored to individual skin types and needs, featuring only clinically-tested active ingredients.
+5. **Nuxe Reve de Miel Face Mask**: An overnight face mask enriched with honey, shea butter, and rose petals, promising nourishing benefits without harsh chemicals.
+
+By examining the user's reviews, we've identified key patterns and preferences that guide our suggestions toward more targeted, sustainable, and naturally-focused products. As their go-to recommender system, we strive to provide recommendations that resonate with their core values and interests.
+
+User 19 Extracted Product Names:
+['Acure Organics Hydrating Facial Cream', 'Lush Bath Bombs', 'Etsy Handmade Hair Ties', 'Curology Customized Skincare Routine', 'Nuxe Reve de Miel Face Mask']
+
+User 19:
+Test Product ASIN: B0919R1CYT
+Recommended Products:
+  1. ASIN: B08HVRP54L - Similarity: 30.00% - No Match
+  2. ASIN: B089R7S73D - Similarity: 40.00% - No Match
+  3. ASIN: B081D2R47W - Similarity: 40.00% - No Match
+  4. ASIN: B08S1LWF9V - Similarity: 40.00% - No Match
+  5. ASIN: B089D16BWJ - Similarity: 40.00% - No Match
+  6. ASIN: B07W397QG4 - Similarity: 30.00% - No Match
+  7. ASIN: B095CG2ZV1 - Similarity: 40.00% - No Match
+  8. ASIN: B07YL4485K - Similarity: 30.00% - No Match
+  9. ASIN: B08H4SYXR4 - Similarity: 30.00% - No Match
+  10. ASIN: B08BS3WDPJ - Similarity: 20.00% - No Match
+  11. ASIN: B08C37KWRR - Similarity: 30.00% - No Match
+  12. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  13. ASIN: B07VQR3W3Z - Similarity: 30.00% - No Match
+  14. ASIN: B07ZS3DKL5 - Similarity: 20.00% - No Match
+  15. ASIN: B08VKQY815 - Similarity: 30.00% - No Match
+  16. ASIN: B08P7PSMRR - Similarity: 30.00% - No Match
+  17. ASIN: B08P5579KC - Similarity: 40.00% - No Match
+  18. ASIN: B082NKQ4ZT - Similarity: 30.00% - No Match
+  19. ASIN: B08BF4BKKM - Similarity: 20.00% - No Match
+  20. ASIN: B08GS1G9BH - Similarity: 40.00% - No Match
+
+User 20 Profile and Candidate Items:
+**Short-Term Interest:** Based on the user's latest reviews, we observe an interest in personal care products such as perfumes, skincare, and beauty tools. Specifically, the user seems drawn towards cruelty-free, vegan-friendly options.
+
+**Long-Term Preference:** By analyzing the user's complete review history, we notice recurring patterns indicating a focus on self-care routines, sustainability, and eco-friendliness. The user tends to prefer multi-functional products, likes organization systems, and values effective removal of makeup without drying out the skin.
+
+**Profile Summary:** Our user enjoys exploring various aspects of personal grooming, prioritizing cruelty-free practices, and appreciates eco-friendly packaging. They value convenience, efficiency, and relaxation within their daily routine. Their taste leans toward premium-quality products with gentle ingredients, suitable for sensitive skins. As a result, our user is likely interested in discovering new brands offering innovative solutions for maintaining healthy, radiant complexions.
+
+**Candidate Item List:**
+
+1. **Natural Skincare Sets**: A curated selection of artisanal skincare sets featuring plant-based formulas, reusable containers, and refillable packets.
+2. **Eco-Friendly Haircare Products**: Gentle shampoos, conditioners, and styling aids formulated using sustainable sources, biodegradable materials, and reduced waste packaging.
+3. **Cruelty-Free Makeup Essentials**: A collection of essential makeup must-haves, including foundation, blushes, eyeshadows, lipsticks, and mascaras from reputable, animal-testing-free brands.
+4. **Sustainable Beauty Subscriptions**: Services offering monthly deliveries of carefully selected products aligned with the user's preferences, promoting discovery, exploration, and responsible consumption.
+5. **Organized Travel Kits**: Portable cases containing miniaturized versions of favorite products, designed specifically for effortless packing and convenient use during travels or busy days.
+
+These candidate items cater to the user's refined interests in sustainable living, self-care, and cruelty-free practices, providing opportunities for further exploration and delight.
+
+User 20 Extracted Product Names:
+['Natural Skincare Sets', 'Eco-Friendly Haircare Products', 'Cruelty-Free Makeup Essentials', 'Sustainable Beauty Subscriptions', 'Organized Travel Kits']
+
+User 20:
+Test Product ASIN: B08S1LWF9V
+Recommended Products:
+  1. ASIN: B0949MJRHK - Similarity: 30.00% - No Match
+  2. ASIN: B08BY9P4HR - Similarity: 40.00% - No Match
+  3. ASIN: B08F4ZDVZQ - Similarity: 50.00% - No Match
+  4. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  5. ASIN: B07JGD2T2J - Similarity: 20.00% - No Match
+  6. ASIN: B08BF4BKKM - Similarity: 40.00% - No Match
+  7. ASIN: B0941YDPSW - Similarity: 40.00% - No Match
+  8. ASIN: B08S1LWF9V - Similarity: 100.00% - Match
+  9. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  10. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  11. ASIN: B08H4SYXR4 - Similarity: 40.00% - No Match
+  12. ASIN: B08JTNQFZY - Similarity: 40.00% - No Match
+  13. ASIN: B08575Y9V3 - Similarity: 50.00% - No Match
+  14. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  15. ASIN: B092M5K59T - Similarity: 30.00% - No Match
+  16. ASIN: B08GJJ5RV9 - Similarity: 40.00% - No Match
+  17. ASIN: B08XJWLLKQ - Similarity: 40.00% - No Match
+  18. ASIN: B07ZS3DKL5 - Similarity: 40.00% - No Match
+  19. ASIN: B08HRHCZV2 - Similarity: 40.00% - No Match
+  20. ASIN: B08MC3ZLV4 - Similarity: 50.00% - No Match
+
+User 21 Profile and Candidate Items:
+Based on the provided reviews, we can extract information about the user's preferences, habits, and possible interests.
+
+**Short-Term Interests:**
+From the latest three reviews, we notice:
+
+* Interest in skincare products (Hemp Lotion for Dry Skin)
+* Appreciation for unique and fashionable accessories (Hetianmei Pink Rhinestone Headbands)
+* Concerns about skin aging (MAELYS VIRTUE Neck Firming Cream)
+
+These short-term interests indicate the user might be exploring new ways to take care of themselves and enhance their appearance.
+
+**Long-term Preferences:**
+
+Analyzing all reviews reveals:
+
+* Focus on natural, vegan-friendly, and fragrance-free products (consistent across several reviews)
+* Preference for high-quality materials and craftsmanship (e.g., Noble Wigs)
+* History of trying different beauty treatments and products due to various health concerns
+
+The user appears to prioritize using gentle, effective products while being mindful of allergies and sensitivities.
+
+**User Profile Summary:**
+
+
+You're someone who values self-care and wellness, always seeking innovative solutions for your skin concerns. While you may experiment with various products and brands, you tend towards those offering natural, cruelty-free alternatives. With an eye for fashion and aesthetics, you enjoy expressing yourself through bold statements – whether through jewelry, hairpieces, or makeup. Despite life's challenges, you maintain a positive outlook and strive for confidence.
+
+
+Five Candidate Items that Align with the User's Profile:
+
+
+1. **Botanical Hair Care**: Explore shampoos and conditioners infused with plant-based extracts, targeting specific scalp conditions or promoting healthy locks.
+2. **Natural Skincare Sets**: Introduce the user to curated sets combining serums, creams, and oils featuring essential botanicals like rosehip, green tea, or chamomile.
+3. **Eco-Friendly Makeup Essentials**: Offer a palette of mineral-based foundations, blushes, and eyeshadows boasting organic certifications and sustainable packaging options.
+4. **Customizable Jewelry Boxes**: Provide subscription services delivering handcrafted, artisanal pieces made from recycled materials or sustainably sourced gems.
+5. **Wellness Retreats**: Recommend experiential getaways focused on mindfulness practices, yoga retreats, or holistic spa packages incorporating meditation sessions and guided relaxation techniques.
+
+
+
+By analyzing the user's diverse preferences and interests, our goal was to create a tailored profile highlighting their affinity for nature-inspired beauty routines, love for statement-making accessories, and commitment to eco-conscious living. We also proposed a selection of products catering to these passions, fostering further exploration and discovery within their preferred niches.
+
+User 21 Extracted Product Names:
+['Botanical Hair Care', 'Natural Skincare Sets', 'Eco-Friendly Makeup Essentials', 'Customizable Jewelry Boxes', 'Wellness Retreats']
+
+User 21:
+Test Product ASIN: B0BVQQ58G8
+Recommended Products:
+  1. ASIN: B086XH7BWW - Similarity: 30.00% - No Match
+  2. ASIN: B0949MJRHK - Similarity: 20.00% - No Match
+  3. ASIN: B08F4ZDVZQ - Similarity: 40.00% - No Match
+  4. ASIN: B092M5K59T - Similarity: 30.00% - No Match
+  5. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  6. ASIN: B08XJWLLKQ - Similarity: 30.00% - No Match
+  7. ASIN: B08BF4BKKM - Similarity: 30.00% - No Match
+  8. ASIN: B09C5NQSC5 - Similarity: 40.00% - No Match
+  9. ASIN: B09GVHT2D3 - Similarity: 30.00% - No Match
+  10. ASIN: B0713VF172 - Similarity: 30.00% - No Match
+  11. ASIN: B083PXJBVY - Similarity: 40.00% - No Match
+  12. ASIN: B08S1LWF9V - Similarity: 30.00% - No Match
+  13. ASIN: B081M5R5L5 - Similarity: 30.00% - No Match
+  14. ASIN: B08R3F946X - Similarity: 30.00% - No Match
+  15. ASIN: B08P5579KC - Similarity: 30.00% - No Match
+  16. ASIN: B07VGBBNTH - Similarity: 40.00% - No Match
+  17. ASIN: B08H4SYXR4 - Similarity: 30.00% - No Match
+  18. ASIN: B08GJJ5RV9 - Similarity: 40.00% - No Match
+  19. ASIN: B0912BNP4J - Similarity: 30.00% - No Match
+  20. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+
+User 22 Profile and Candidate Items:
+Based on the provided user reviews, we've analyzed the user's behavior and created a comprehensive user profile.
+
+**Short-Term Interest:** 
+The user has recently shown interest in hair-related products, particularly synthetic hair extensions, human hair bundles, keratin treatments, and beauty tools such as gel nail polish sets. Their most recent reviews indicate a focus on finding high-quality hair products that meet specific needs, such as durability, ease of application, and natural-looking results.
+
+**Long-Term Preference:** 
+An analysis of the user's entire reviewing history reveals recurring themes around hair care and maintenance. They consistently seek out products that cater to their curly/afro-textured hair type, indicating a strong preference for products specifically designed for African-American hair textures. Additionally, their reviews suggest a desire for versatility in hairstyles, experimentation with different looks, and a willingness to invest in high-end products for optimal performance.
+
+**User Profile Summary:**
+This user values convenience, effectiveness, and aesthetics when selecting hair-related products. With a strong affinity towards afro-curly textured hair, they require products tailored to their specific needs. They prioritize quality, durability, and innovative features, often seeking brands offering customized solutions. As a hairstyling enthusiast, they enjoy exploring various styles and techniques, making them receptive to new trends and cutting-edge innovations.
+
+**Candidate Items:**
+
+Considering the user's preferences and interests, here are five product category recommendations:
+
+1. **Curly Hair Care**: A premium brand specializing in sulfate-free shampoos, deep conditioning treatments, and leave-in conditioners designed specifically for Afro-Curly hair textures.
+2. **Hair Extension Systems**: A company offering high-quality, heat-resistant hair extension systems suitable for a variety of hair lengths, textures, and styling methods.
+3. **Natural Hair Styling Tools**: An eco-friendly brand providing sustainable hair styling instruments, such as wooden combs, bamboo brushes, and ceramic irons.
+4. **Customizable Hairstyles**: A subscription-based service allowing users to design bespoke hairstyles using AI-powered stylists, offering virtual consultations, and delivering step-by-step tutorials via video content.
+5. **Professional Beauty Education**: An online platform hosting expert-led workshops, masterclasses, and webinars focused on advanced hairstyle techniques, product knowledge, and industry trends, catering to enthusiasts and professionals alike.
+
+These recommended product categories aim to address the user's ongoing demands for effective, versatile, and aesthetically pleasing hair products and services, reflecting their evolving preferences and interests across multiple facets of their hairstyling journey.
+
+User 22 Extracted Product Names:
+['Curly Hair Care', 'Hair Extension Systems', 'Natural Hair Styling Tools', 'Customizable Hairstyles', 'Professional Beauty Education']
+
+User 22:
+Test Product ASIN: B0994HWXVV
+Recommended Products:
+  1. ASIN: B07THLR7RR - Similarity: 30.00% - No Match
+  2. ASIN: B08BY9P4HR - Similarity: 50.00% - No Match
+  3. ASIN: B08JTNQFZY - Similarity: 20.00% - No Match
+  4. ASIN: B08575Y9V3 - Similarity: 40.00% - No Match
+  5. ASIN: B07TLMZL3T - Similarity: 20.00% - No Match
+  6. ASIN: B07VGBBNTH - Similarity: 30.00% - No Match
+  7. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  8. ASIN: B081ZN3TD5 - Similarity: 20.00% - No Match
+  9. ASIN: B0912BNP4J - Similarity: 40.00% - No Match
+  10. ASIN: B092M5K59T - Similarity: 40.00% - No Match
+  11. ASIN: B0BG6WX4DH - Similarity: 40.00% - No Match
+  12. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  13. ASIN: B08GC5GSNG - Similarity: 20.00% - No Match
+  14. ASIN: B08S3B8Y5G - Similarity: 20.00% - No Match
+  15. ASIN: B07VG2W8TT - Similarity: 30.00% - No Match
+  16. ASIN: B086XH7BWW - Similarity: 40.00% - No Match
+  17. ASIN: B0BC273JJR - Similarity: 20.00% - No Match
+  18. ASIN: B082MDFNZM - Similarity: 20.00% - No Match
+  19. ASIN: B08CVTNQP1 - Similarity: 30.00% - No Match
+  20. ASIN: B0B4MR9BXN - Similarity: 40.00% - No Match
+
+User 23 Profile and Candidate Items:
+Based on the provided user reviews, we can create an extensive user profile and suggest five candidate items.
+
+**Short-Term Interest Analysis**: 
+The user has recently reviewed several beauty-related products, including skincare, haircare, and accessories. Their reviews indicate a focus on quality, functionality, and value for money. Specifically:
+
+* About Me MediAnswer Collagen Firming Up Mask shows interest in anti-aging skin care and hydrating facial treatments.
+* Taya Beauty Inner Core Hair Strong Anti-Breakage Shampoo & Conditioner Duo indicates concern about strengthening and repairing damaged hair.
+* Messen Fashion Velvet Wide Hairband demonstrates appreciation for elegant and vintage-inspired fashion accessories.
+
+**Long-Term Preference Analysis**: 
+Examining the user's entire review history reveals persistent themes and tendencies:
+
+* A strong affinity for beauty and wellness products, particularly focusing on natural ingredients, sulfate-free formulas, and gentle treatment.
+* Appreciation for versatile, multi-functional products that cater to diverse needs.
+* Emphasis on durability, quality construction, and reasonable pricing.
+
+**User Profile Summary**: 
+Our comprehensive analysis suggests that this user values high-quality, effective, and affordable beauty solutions that address specific concerns such as aging, damage, and style. They prioritize versatility, sustainability, and timeless design. We expect them to continue exploring innovative products that harmonize function and aesthetics.
+
+**Candidate Item Suggestions**: 
+Given our understanding of the user's profile, here are five candidate item suggestions that align with their preferences and interests:
+
+1. **Drunk Elephant Protini Polypeptide Cream**: As a premium skincare product focused on hydration, firmness, and wrinkle reduction, it appeals to the user's concerns regarding aging and dry skin.
+2. **Moroccanoil Moisture Repair Shampoo & Conditioner Duo**: With its emphasis on nourishing, moisturizing properties, this duo addresses the user's need for strength, repair, and manageability in hair care.
+3. **H&M Conscious Silk Blend Scarf**: Although not directly related to beauty, H&M's sustainable approach and silk-blend material resonate with the user's appreciation for eco-friendly practices and timeless design.
+4. **Kérastase DernièreRichesse Nourishing Mask**: Another skincare solution catering to dry, damaged hair; this luxurious face mask promises intense hydration and nourishment.
+5. **Sephora Collection Rose Quartz Roller**: An innovative tool combining ancient healing principles with modern technology, this roller promotes lymphatic drainage, reduces puffiness, and rejuvenates the complexion – appealing to the user's search for holistic, natural approaches.
+
+By recommending these candidate items, we aim to satisfy the user's evolving interests and expectations within the realm of beauty and self-care. Our goal is to continuously adapt to their changing preferences while providing tailored recommendations that harmonize functional requirements with aesthetic considerations.
+
+User 23 Extracted Product Names:
+['About Me MediAnswer Collagen Firming Up Mask shows interest in anti-aging skin care and hydrating facial treatments.', 'Taya Beauty Inner Core Hair Strong Anti-Breakage Shampoo & Conditioner Duo indicates concern about strengthening and repairing damaged hair.', 'Messen Fashion Velvet Wide Hairband demonstrates appreciation for elegant and vintage-inspired fashion accessories.', 'A strong affinity for beauty and wellness products, particularly focusing on natural ingredients, sulfate-free formulas, and gentle treatment.', 'Appreciation for versatile, multi-functional products that cater to diverse needs.', 'Emphasis on durability, quality construction, and reasonable pricing.', 'Drunk Elephant Protini Polypeptide Cream', 'Moroccanoil Moisture Repair Shampoo & Conditioner Duo', 'H&M Conscious Silk Blend Scarf', 'Kérastase DernièreRichesse Nourishing Mask', 'Sephora Collection Rose Quartz Roller']
+
+User 23:
+Test Product ASIN: B07JGD2T2J
+Recommended Products:
+  1. ASIN: B07P4LLZS6 - Similarity: 30.00% - No Match
+  2. ASIN: B086XH7BWW - Similarity: 30.00% - No Match
+  3. ASIN: B0895XPZNT - Similarity: 30.00% - No Match
+  4. ASIN: B0941YDPSW - Similarity: 30.00% - No Match
+  5. ASIN: B082VKPJV5 - Similarity: 40.00% - No Match
+  6. ASIN: B08JTNQFZY - Similarity: 40.00% - No Match
+  7. ASIN: B07ZS3DKL5 - Similarity: 40.00% - No Match
+  8. ASIN: B087ZQG11L - Similarity: 40.00% - No Match
+  9. ASIN: B07VQR3W3Z - Similarity: 30.00% - No Match
+  10. ASIN: B08GS1G9BH - Similarity: 30.00% - No Match
+  11. ASIN: B07HVRP37G - Similarity: 40.00% - No Match
+  12. ASIN: B089D16BWJ - Similarity: 40.00% - No Match
+  13. ASIN: B08XJWLLKQ - Similarity: 30.00% - No Match
+  14. ASIN: B086N2SY91 - Similarity: 30.00% - No Match
+  15. ASIN: B096YHL82K - Similarity: 30.00% - No Match
+  16. ASIN: B085NYYLQ8 - Similarity: 20.00% - No Match
+  17. ASIN: B08G83G24X - Similarity: 40.00% - No Match
+  18. ASIN: B07W1WJZFG - Similarity: 50.00% - No Match
+  19. ASIN: B087ZQK2G8 - Similarity: 40.00% - No Match
+  20. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+
+User 24 Profile and Candidate Items:
+Based on the provided user reviews, we will analyze each product to determine patterns and trends related to the user's preferences.
+
+**Short-Term Interest Analysis**
+
+From reviewing products, it appears that the user has recently been interested in:
+
+* Nail care and beauty products, particularly those focused on gel nails and nail art
+* Products that offer convenience and ease-of-use, such as portable electric nail drills and quick-building nail tips
+* Affordable options with good value-for-money
+
+These observations suggest that the user may be drawn to trendy and Instagram-friendly nail designs, and values practicality and affordability above all else.
+
+**Long-Term Preference Analysis**
+
+Upon analyzing the user's past purchases and reviews, some common threads emerge:
+
+* The user tends towards high-quality, professional-grade tools and materials, indicating an interest in mastering various techniques and achieving precise results
+* They show appreciation for innovative features, such as multi-language manuals and extra-long cables, which suggests an openness to new technologies and advancements
+* Despite being price-sensitive, the user seems willing to invest in premium products and services if they believe they will deliver exceptional performance and longevity
+
+These findings imply that the user prioritizes quality, innovation, and reliability, suggesting a willingness to adapt to changes in the industry and continually improve their skills.
+
+**User Profile Summary**
+
+Our analysis reveals a dynamic individual who balances short-term desires for novelty and trendiness against longer-term goals of mastery and excellence. They prioritize affordability, yet recognize the importance of investing in top-tier products and services. Our recommended course of action includes exploring emerging trends in nail art and design, staying up-to-date with the latest innovations in tool technology, and seeking inspiration from professional nail artists and influencers.
+
+**Candidate Item Recommendations**
+
+Considering our analysis, here are five candidate items that cater to the user's preferences and interests:
+
+1. **NailArtify**: An AI-powered nail art subscription service offering exclusive tutorials, curated supply kits, and access to expert community forums ($19.99/month)
+2. **Geluxe Pro**: A compact, rechargeable gel nail lamp featuring advanced curing technology and customizable settings ($49.95)
+3. **TipTop**: Premium, reusable nail tips made from durable materials, designed specifically for gel extensions and acrylic applications ($14.95/pack)
+4. **ProFusion**: A handheld, cordless nail drill boasting adjustable speed control and interchangeable bits for precision and versatility ($69.99)
+5. **BeautyBrite**: An online platform connecting users with certified nail technicians, offering virtual consultations, customized treatment plans, and real-time support ($29.99/mo)
+
+These recommendations aim to meet the user's needs by introducing cutting-edge technology, high-end quality, and unique experiences tailored to their passion for nail art and aesthetics. By embracing these suggestions, the user can continue refining their craft, stay ahead of industry trends, and enjoy unparalleled levels of creativity and self-expression.
+
+User 24 Extracted Product Names:
+['NailArtify', 'Geluxe Pro', 'TipTop', 'ProFusion', 'BeautyBrite']
+
+User 24:
+Test Product ASIN: B09G3KBK7Y
+Recommended Products:
+  1. ASIN: B0BC273JJR - Similarity: 40.00% - No Match
+  2. ASIN: B08575Y9V3 - Similarity: 40.00% - No Match
+  3. ASIN: B085NYYLQ8 - Similarity: 30.00% - No Match
+  4. ASIN: B08BY9P4HR - Similarity: 40.00% - No Match
+  5. ASIN: B07MMW5654 - Similarity: 30.00% - No Match
+  6. ASIN: B08G4Y4SFV - Similarity: 40.00% - No Match
+  7. ASIN: B07SLFWZKN - Similarity: 30.00% - No Match
+  8. ASIN: B08JTNQFZY - Similarity: 30.00% - No Match
+  9. ASIN: B07TLMZL3T - Similarity: 30.00% - No Match
+  10. ASIN: B08S1LWF9V - Similarity: 30.00% - No Match
+  11. ASIN: B08W4WQMNM - Similarity: 20.00% - No Match
+  12. ASIN: B0B4MR9BXN - Similarity: 40.00% - No Match
+  13. ASIN: B093H28PD4 - Similarity: 40.00% - No Match
+  14. ASIN: B09C5NQSC5 - Similarity: 30.00% - No Match
+  15. ASIN: B08F4ZDVZQ - Similarity: 20.00% - No Match
+  16. ASIN: B085SY4WC3 - Similarity: 30.00% - No Match
+  17. ASIN: B08VDCWKHV - Similarity: 30.00% - No Match
+  18. ASIN: B082VKPJV5 - Similarity: 30.00% - No Match
+  19. ASIN: B09GVHT2D3 - Similarity: 50.00% - No Match
+  20. ASIN: B07M9D3WYW - Similarity: 50.00% - No Match
+
+User 25 Profile and Candidate Items:
+Here is a comprehensive user profile summary:
+
+This user has shown interest in aromatherapy-related products, specifically essential oil diffusers and room sprays. They seem to appreciate the aesthetic appeal and functional aspects of such devices. Additionally, they value ease-of-use features, such as easy cleaning and auto-shutoff capabilities.
+
+In skincare and beauty, this user appears drawn to products offering hydration and anti-aging properties. They prefer lightweight, non-greasy formulas with added ingredients like cucumber, melon, and kale. Their preference leans towards gentle, sulfate-free cleansers, and nourishing creams that absorb quickly without leaving residues.
+
+Their shopping behavior suggests a willingness to invest in premium quality products, even if they may require occasional maintenance. Notably, they do not shy away from trying new and innovative treatments, exemplified by their curiosity about sparkling oxygen masks.
+
+Given their affinity for relaxing, calming environments, we might expect them to gravitate toward scents with soothing properties like lavender, chamomile, or eucalyptus. To cater to their needs, our recommendations would focus on products combining sensory experiences with practical functionality.
+
+Based on their purchasing patterns, here are five candidate item suggestions aligned with their preferences and interests:
+
+Candidate Item 1: **Essential Oil Blends** - Relaxation and Stress Relief, featuring calming scents like lavender, bergamot, and ylang-ylang.
+
+Candidate Item 2: **Hydroquinone Face Cream** - Advanced Brightening Formula, harnessing the power of vitamin C, peptides, and plant extracts to combat hyperpigmentation.
+
+Candidate Item 3: **Cleansing Brush System** - Gentle yet Effective Makeup Remover and Skin Massager, designed for sensitive skin types.
+
+Candidate Item 4: **Moisturizing Lip Balms** - Soothing Treatments for Chapped Lips, infusing lip balms with coconut oil, shea butter, and antioxidants for hydrated, soft lips.
+
+Candidate Item 5: **Soothing Sleep Masks** - Tranquil Slumber Essentials, incorporating calming scents, herbal essences, and advanced sleep-promoting technology for rejuvenated mornings.
+
+These product candidates aim to address the user's desires while considering their specific preferences and values. By providing high-quality solutions catering to relaxation, self-care, and beauty routines, you'll likely satisfy their cravings and foster loyalty within this customer segment.
+
+User 25 Profile and Candidate Items:
+Based on the provided user reviews, we've created a comprehensive user profile.
+
+**Short-Term Interests:** Recent trends show the user has been interested in aromatherapy essential oil diffusers, skincare products, particularly those focusing on hydration and anti-aging, facial masks, and travel-sized sets.
+
+**Long-term Preferences**: Analysis reveals a pattern of interest in holistic self-care practices, prioritization of natural ingredients, appreciation for unique packaging designs, willingness to experiment with new products, and a focus on achieving healthy glowing skin.
+
+**User Profile Summary:** Our user is someone who values relaxation, wellness, and self-care. They tend to favor innovative, eco-friendly products that prioritize natural extracts and gentle formulations. Their preference leans towards affordable, multi-purpose products that offer effective results while catering to specific concerns such as dry/sensitive skin. We observe a strong affinity for aromatic scents, calming colors, and functional designs. Given these characteristics, our goal is to identify candidate items that harmonize with this user's evolving preferences.
+
+**Candidate Items:**
+
+1. **Natural Bath Bombs**: A collection of handcrafted bath bombs infused with herbs and botanicals would appeal to the user's fascination with aromatherapy and natural ingredients.
+2. **Customizable Face Masks**: A subscription service offering customizable face masks tailored to individual skin types and needs would cater to the user's enthusiasm for trial-and-error experimentation.
+3. **Essential Oil Blends**: Pre-mixed blends of calming essential oils designed specifically for stress relief, sleep aid, or mood enhancement might resonate with the user's fondness for relaxing, ambient environments.
+4. **Eco-Friendly Makeup Remover Pads**: Gentle, biodegradable pads soaked in plant-based cleansers would satisfy the user's quest for sustainable, effective skincare solutions.
+5. **Soothing Tea Infusions**: Herbal teas blended for relaxation, insomnia remedy, or digestive comfort would complement the user's inclination toward calming routines and rituals.
+
+These recommendations should align with the user's changing preferences while incorporating elements that echo their core interests in self-care, nature-inspired formulas, and sensory experiences. By providing a diverse range of options, we aim to continue nurturing their curiosity and fostering a deeper connection between their passions and lifestyle choices.
+
+User 25 Extracted Product Names:
+['Natural Bath Bombs', 'Customizable Face Masks', 'Essential Oil Blends', 'Eco-Friendly Makeup Remover Pads', 'Soothing Tea Infusions']
+
+User 25:
+Test Product ASIN: B009GPP546
+Recommended Products:
+  1. ASIN: B089R7S73D - Similarity: 30.00% - No Match
+  2. ASIN: B08FBHNBP1 - Similarity: 30.00% - No Match
+  3. ASIN: B085NYYLQ8 - Similarity: 30.00% - No Match
+  4. ASIN: B087F14JSH - Similarity: 30.00% - No Match
+  5. ASIN: B09GVHT2D3 - Similarity: 40.00% - No Match
+  6. ASIN: B095CG2ZV1 - Similarity: 40.00% - No Match
+  7. ASIN: B086YBQ8M7 - Similarity: 30.00% - No Match
+  8. ASIN: B07TLMZL3T - Similarity: 20.00% - No Match
+  9. ASIN: B088LWRYJC - Similarity: 20.00% - No Match
+  10. ASIN: B08KT7FCYY - Similarity: 20.00% - No Match
+  11. ASIN: B08MC3ZLV4 - Similarity: 30.00% - No Match
+  12. ASIN: B088FBNQXW - Similarity: 20.00% - No Match
+  13. ASIN: B08P5579KC - Similarity: 40.00% - No Match
+  14. ASIN: B083BGJ4P9 - Similarity: 40.00% - No Match
+  15. ASIN: B083PXJBVY - Similarity: 30.00% - No Match
+  16. ASIN: B09473GGM4 - Similarity: 50.00% - No Match
+  17. ASIN: B083B67373 - Similarity: 30.00% - No Match
+  18. ASIN: B09C5NQSC5 - Similarity: 40.00% - No Match
+  19. ASIN: B0851T7HDS - Similarity: 30.00% - No Match
+  20. ASIN: B07Z3NRMBS - Similarity: 20.00% - No Match
+
+User 26 Profile and Candidate Items:
+Based on the provided user reviews, we'll analyze them to identify patterns, preferences, and tendencies. We'll then build a comprehensive user profile and recommend five candidate products.
+
+**Short-Term Interests:** Based on the latest reviews:
+
+1. **Natural and Organic Products**: Many recent reviews focus on natural, herbal, and certified organic ingredients, such as pharmacopoeia tangerine-flavored lip balm, kale firm & smooth body lotion, and various aloe vera gels.
+2. **Skin and Haircare**: There is a notable emphasis on skincare and haircare products, particularly those containing aloe vera, keratin, and vitamin E.
+
+**Long-Term Preferences:** Examining the user's entire reviewing history reveals trends and patterns:
+
+1. **Preference for Gentle and Non-Irritating Products**: Users tend towards gentle, non-stinging formulas, evident in reviews mentioning 'no artificial fragrances', 'unscented', and 'naturally nourishing'.
+2. **Focus on Specific Ingredient Groups**: Within reviews, users consistently seek information regarding specific active ingredients, such as bee-free, hypoallergenic, vegan-friendly, and gluten-free formulations.
+3. **Appreciation for Unique Features and Benefits**: Consumers appear interested in unique features, like cooling sensations, hydration benefits, and sun protection properties, within reviewed products.
+
+**User Profile Summary:** Combining insights from short-term interests and long-term preferences yields the following profile summary:
+
+This user prioritizes natural, organic, and hypoallergic products, often seeking gentle, fragrance-free solutions. They appreciate products with distinct features and benefits, such as sun protection, hydration, or sensory experiences. Their preferences lean toward products containing beneficial extracts, oils, and botanicals. When making purchasing decisions, this user considers factors beyond mere functionality, opting instead for holistic approaches tailored to their individual needs.
+
+**Candidate Item Recommendations:** Considering the user's profile, we suggest the following top-five candidates:
+
+1. **Dr. Hauschka Rose Day Cream**: With its blend of rose petal extract, jojoba oil, and shea butter, this cream offers a rich, hydrating experience while catering to the user's preference for natural, plant-based ingredients.
+2. **Burt's Bees Coconut Oil Hydrating Facial Cleanser**: As a gentle, non-comedogenic cleanser featuring coconut oil, this product satisfies the user's demand for natural, fragrance-free alternatives.
+3. **Acure Organics Hydration Rescue Night Cream**: By combining argan stem cells, burdock root, and chamomile, this night cream addresses the user's concern for hydration and soothing benefits, while adhering to the principles of natural and organic formulation.
+4. **Andalou Naturals Fruit Stem Cell Revitalizing Mist**: This facial mist incorporates resveratrol-rich fruit stem cells, aloe vera, and green tea, providing antioxidant-enriched tonification while appealing to the user's affinity for natural, plant-derived actives.
+5. **La Roche-Posay Lipikar Ap+ Soothing Stick**: Offering a light, non-greasy texture and soothing properties through its liposomal encapsulation technology, this stick caters to the user's interest in gentle, fragrance-free products for sensitive areas.
+
+By recommending these products, we cater to the user's preferences for natural, organic, and hypoallergic formulations, incorporating distinct features and benefits while addressing concerns related to hydration, sensitivity, and specificity. Our goal is to ensure maximum satisfaction and compatibility with the user's profile.
+
+User 26 Extracted Product Names:
+['Natural and Organic Products', 'Skin and Haircare', 'Preference for Gentle and Non-Irritating Products', 'Focus on Specific Ingredient Groups', 'Appreciation for Unique Features and Benefits', 'Dr. Hauschka Rose Day Cream', "Burt's Bees Coconut Oil Hydrating Facial Cleanser", 'Acure Organics Hydration Rescue Night Cream', 'Andalou Naturals Fruit Stem Cell Revitalizing Mist', 'La Roche-Posay Lipikar Ap+ Soothing Stick']
+
+User 26:
+Test Product ASIN: B08C72C56Z
+Recommended Products:
+  1. ASIN: B09GVHT2D3 - Similarity: 30.00% - No Match
+  2. ASIN: B07TLMZL3T - Similarity: 40.00% - No Match
+  3. ASIN: B086VRRD99 - Similarity: 40.00% - No Match
+  4. ASIN: B085NYYLQ8 - Similarity: 40.00% - No Match
+  5. ASIN: B08JTNQFZY - Similarity: 40.00% - No Match
+  6. ASIN: B09FNTZFZZ - Similarity: 30.00% - No Match
+  7. ASIN: B07ZQRX7FX - Similarity: 40.00% - No Match
+  8. ASIN: B07W397QG4 - Similarity: 30.00% - No Match
+  9. ASIN: B0BG6WX4DH - Similarity: 30.00% - No Match
+  10. ASIN: B07W1WJZFG - Similarity: 40.00% - No Match
+  11. ASIN: B09C5NQSC5 - Similarity: 50.00% - No Match
+  12. ASIN: B08575Y9V3 - Similarity: 50.00% - No Match
+  13. ASIN: B08H4SYXR4 - Similarity: 30.00% - No Match
+  14. ASIN: B07SLFWZKN - Similarity: 40.00% - No Match
+  15. ASIN: B092M5K59T - Similarity: 40.00% - No Match
+  16. ASIN: B08HVRP54L - Similarity: 40.00% - No Match
+  17. ASIN: B07MZT83KK - Similarity: 40.00% - No Match
+  18. ASIN: B08C37KWRR - Similarity: 50.00% - No Match
+  19. ASIN: B0B4MR9BXN - Similarity: 20.00% - No Match
+  20. ASIN: B08KWN77LW - Similarity: 40.00% - No Match
+
+User 27 Profile and Candidate Items:
+Based on the provided user reviews, here is the generated user profile:
+
+**Short-Term Interests:** 
+The user has recently shown interest in sun protection products, specifically Coppertone Kids Clear Sunscreen Lotion SPF 50, which suggests an immediate concern about protecting themselves or others' skin.
+
+They also seem interested in beauty and personal care products, such as hair accessories (Hair Scrunchies), ear cleaning tools (Organic Bamboo Cotton Ear Swabs), hand and body lotions (Spanature Aloe Vera Hand & Body Lotion), and skincare essences (CELIMAX The Real Sedum Aqua Boosting Essence).
+
+Additionally, there appears to be a preference towards eco-friendly, natural, and sustainable products within these categories.
+
+**Long-term Preferences:**
+Analyzing the user's entire review history reveals several recurring patterns and preferences:
+
+* There seems to be a strong inclination towards natural, organic, and sustainable products across various categories, including health and wellness, beauty, and household goods.
+* Users tend to appreciate high-quality products with unique features, such as the broad-spectrum sunscreen properties of Coppertone Kids Clear Sunscreen Lotion.
+* Reviewers often comment positively on pleasant fragrances, soft textures, and effective performance when discussing products.
+
+These long-term preferences indicate that users prioritize product functionality, environmental friendliness, and sensory experiences when selecting new items.
+
+**User Profile Summary:**
+This user's profile highlights a curious individual who prioritizes sustainability, effectiveness, and sensory enjoyment. Their recent interests center around sun protection, beauty, and personal care products, likely driven by concerns about self-care and appearance. As someone who values eco-friendliness, this user tends to gravitate toward products boasting natural ingredients, biodegradability, and recyclable packaging. While appreciating high-quality products, they may struggle with overly complex formulas or harsh chemicals. To satisfy their cravings, consider recommending products that seamlessly integrate practicality, aesthetics, and environmental responsibility.
+
+Now, generating five candidate items based on this user's preferences, here are some suggestions:
+
+Candidate Item 1: **Burt's Bees Bee Lovely Brightening Face Cream**, featuring a gentle, non-comedogenic formula infused with natural brighteners and antioxidants, packaged sustainably with minimal waste.
+
+Candidate Item 2: **Acure Organics Hydrating Facial Cleanser**, offering a plant-based cleanser with soothing botanicals, rich lather, and a subtle fragrance, free from harsh chemicals and artificial preservatives.
+
+Candidate Item 3: **Desert Essence Thoroughly Clean Purifying Shampoo**, promising a sulfate-free, cruelty-free, vegan shampoo made with certified organic herbs and essential oils, targeting scalp health and detangling properties.
+
+Candidate Item 4: **Lavera Bio-Care Soothing Eye Serum**, utilizing a blend of natural actives, hyaluronate, and jojoba oil to quench thirsty eyes, reduce puffiness, and smooth fine lines, presented in eco-conscious packaging.
+
+Candidate Item 5: **Andalou Naturals Fruit Stem Cell Renewal Cream**, blending antioxidant-rich fruit stem cells, resveratrol, and ceramides to promote radiant, youthful-looking skin, wrapped in compostable materials for environmentally responsible disposal.
+
+Please note that these recommendations should cater to this specific user's profile and preferences, focusing on key aspects mentioned above, such as eco-friendliness, natural ingredients, and functional benefits. By providing tailored item choices, you'll increase the likelihood of satisfying this customer's needs and fostering repeat business.
+
